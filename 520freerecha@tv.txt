@@ -7,7 +7,7 @@ ua=okhttp/3.8.1 okhttp/3.15 okhttp/4.12.0 Herissmon/2016 judy/5.2.1 RobYang/5.2.
 
 
 
-1218 check,#genre#
+1223 check,#genre#
 
 Merry Xmas,https://www.youtube.com/watch?v=f-1ZHYHry60
 AI倪珍今日新聞,https://www.youtube.com/watch?v=YBgQRpZqeug
@@ -1382,4 +1382,437 @@ NASA Earth From Space,https://www.youtube.com/watch?v=QviXe8xvA50
 間諜家家酒,https://www.youtube.com/watch?v=dI2negE-v4c
 進擊的巨人,https://www.youtube.com/watch?v=GlVvyu7jehk
 關於我轉生變成史萊姆這檔事,https://www.youtube.com/watch?v=ATsYVyh_Nwk
-擁有超常技能的異世界流浪美食家,https://www.youtube.co…
+擁有超常技能的異世界流浪美食家,https://www.youtube.com/watch?v=1LG5ULI7Trg
+
+我內心的糟糕念頭,https://www.youtube.com/watch?v=pVhKY0LjmNA
+佐賀偶像是傳奇,https://www.youtube.com/watch?v=SNG8wNLU-_s
+遊戲王,https://www.youtube.com/watch?v=nGDX7qUl6mw
+
+TOM and JERRY,https://www.youtube.com/watch?v=rEKifG2XUZg
+
+豆豆先生,https://www.youtube.com/watch?v=amzgpxDsJjQ
+豆豆先生卡通1,https://www.youtube.com/watch?v=ISbUTZ714Jw
+豆豆先生卡通2,https://www.youtube.com/watch?v=_iYXccUBtSE
+
+豬哥會社,https://www.youtube.com/watch?v=v8MUGB4vst8
+萬秀豬王,https://www.youtube.com/watch?v=ADDSmXoPDY8
+
+11點熱吵店,https://www.youtube.com/watch?v=HIE1r3ELkbo
+
+九重紫,https://www.youtube.com/watch?v=ESCvRS78MBk
+倚天屠龍記,https://www.youtube.com/watch?v=7syefcmbpFE
+神鵰俠侶,https://www.youtube.com/watch?v=OyTd6lXP32Y
+光芒,https://www.youtube.com/watch?v=Wsz2YuQ422g
+
+三國,https://www.youtube.com/watch?v=XM6eMs2ivLM
+朱元璋,https://www.youtube.com/watch?v=JZkwKceWO6k
+
+天才衝衝衝,https://www.youtube.com/watch?v=ldeFCcWBFzg
+現代嘉慶君,https://www.youtube.com/watch?v=OhA_G0s9pqw
+
+台灣奇案,https://www.youtube.com/watch?v=vR19P3As6_g
+廉政英雄,https://www.youtube.com/watch?v=TXKWbIPgD_8
+新玫瑰瞳鈴眼,https://www.youtube.com/watch?v=qJMFuMRLee4
+我的老師叫小賀,https://www.youtube.com/watch?v=6CQZxYpW9q4
+藍色水玲瓏,https://www.youtube.com/watch?v=rTcTVZBZtYs
+新兵日記,https://www.youtube.com/watch?v=032kEdR9Lic
+
+台灣龍捲風,https://www.youtube.com/watch?v=LywmGVSqUxg
+世間情,https://www.youtube.com/watch?v=PEK0rwBXl2M
+阿爸的願望,https://www.youtube.com/watch?v=fsykZDGND_o
+一家團圓,https://www.youtube.com/watch?v=Af5hJQIU5mo
+天之驕女,https://www.youtube.com/watch?v=zZviZGp9NmA
+
+包青天,https://www.youtube.com/watch?v=skcL03LOH4U
+台灣靈異事件,https://www.youtube.com/watch?v=7PrYe8ykEjY
+
+知否知否應是綠肥紅瘦,https://www.youtube.com/watch?v=sS6SFAjW_mo
+琉璃,https://www.youtube.com/watch?v=Kp2fEEv6HtE
+琅琊榜,https://www.youtube.com/watch?v=H4X-DA9BMR0
+
+飛龍在天,https://www.youtube.com/watch?v=Nfwr1WBXt9I
+意難忘,https://www.youtube.com/watch?v=yzdKYRUCdxQ
+豬哥秀直播馬拉松,https://www.youtube.com/watch?v=DFqBPb7EW5g
+親戚不計較,https://www.youtube.com/watch?v=GjXBXz5dl6E
+
+飢餓遊戲,https://www.youtube.com/watch?v=id-0Sz8s1pI
+飢餓遊戲點閱人氣榜,https://www.youtube.com/watch?v=UJgN7q6jpns
+
+聽見幸福,https://www.youtube.com/watch?v=ZhpeJEioN8Q
+愛上哥們,https://www.youtube.com/watch?v=EfnPTsHqIs8
+
+終極三國,https://www.youtube.com/watch?v=RG0Pwq8qvyA
+終極系列,https://www.youtube.com/watch?v=HKDuzWlyGts
+
+綜藝玩很大,https://www.youtube.com/watch?v=uehKhWmttVE
+
+戲說台灣,https://www.youtube.com/watch?v=rfSblpvy_rY
+
+翻牆的記憶,https://www.youtube.com/watch?v=Ok_6gWYl_-Y
+
+
+
+🍁 歡樂看TV,#genre#
+
+
+台視新聞台,video://http://www.faintv.com/channel/19366
+歡樂看新聞,video://http://www.faintv.com/channel/19670
+中視新聞台,video://http://www.faintv.com/channel/12922
+華視新聞台,video://http://www.faintv.com/channel/12891
+寰宇新聞台灣台,video://http://www.faintv.com/channel/137
+寰宇財經台,video://http://www.faintv.com/channel/141
+寰宇新聞台,video://http://www.faintv.com/channel/136
+CNEX紀實頻道,video://http://www.faintv.com/channel/18295
+鳳凰衛視香港台,video://http://www.faintv.com/channel/18965
+TVB無綫新聞,video://http://www.faintv.com/channel/17766
+新唐人電視,video://http://www.faintv.com/channel/8976
+台灣啟示錄,video://http://www.faintv.com/channel/18254
+軍武大觀,video://https://www.faintv.com/channel/17617
+大大平評理,video://http://www.faintv.com/channel/18310
+政治狠狠問,video://http://www.faintv.com/channel/21235
+LINE TODAY看世界,video://http://www.faintv.com/channel/18948
+論政天下之鬥而不破,video://http://www.faintv.com/channel/1648
+小宇宙大爆發#健康,video://http://www.faintv.com/channel/18475
+CTWANT周刊王看新聞,video://http://www.faintv.com/channel/19446
+
+
+
+台視,video://http://www.faintv.com/channel/19371
+中天亞洲台,video://https://www.faintv.com/channel/121
+華視,video://http://www.faintv.com/channel/12892
+中視,video://http://www.faintv.com/channel/12921
+中視菁采台,video://http://www.faintv.com/channel/12923
+Smart知識台,video://http://www.faintv.com/channel/68
+ETtoday綜合台,video://http://www.faintv.com/channel/146
+大愛一台,video://http://www.faintv.com/channel/1869
+大愛二台,video://http://www.faintv.com/channel/11877
+好消息綜合台,video://http://www.faintv.com/channel/101
+好消息真理台,video://http://www.faintv.com/channel/103
+東森購物2台,video://http://www.faintv.com/channel/14909
+東森購物3台,video://http://www.faintv.com/channel/14908
+東森購物4台,video://http://www.faintv.com/channel/16555
+東森購物5台,video://http://www.faintv.com/channel/16556
+
+
+
+楊桃美食台,video://http://www.faintv.com/channel/16650
+梅迪奇藝術頻道,video://http://www.faintv.com/channel/246
+雲端創作音樂台,video://http://www.faintv.com/channel/18271
+雲端電音音樂台,video://http://www.faintv.com/channel/16174
+吉馬欣代音樂,video://http://www.faintv.com/channel/18636
+經典串燒歌曲,video://http://www.faintv.com/channel/18637
+執杯大叔林一峰,video://http://www.faintv.com/channel/12938
+全民星攻略,video://http://www.faintv.com/channel/20308
+請問今晚住誰家,video://http://www.faintv.com/channel/20309
+花甲少年趣旅行,video://http://www.faintv.com/channel/20559
+
+
+
+龍華卡通台,video://http://www.faintv.com/channel/89
+哆啦A夢電影系列,video://http://www.faintv.com/channel/143
+森林特工大腳丫家族,video://https://www.faintv.com/channel/15300
+北海小英雄,video://https://www.faintv.com/channel/19468
+菲利斯之永夜島歷險記,video://https://www.faintv.com/channel/21556
+白雪奇緣,video://https://www.faintv.com/channel/21467
+紅鞋公主與七矮人,video://https://www.faintv.com/channel/21516
+新幹線變形機器人,video://https://www.faintv.com/channel/21553
+露西亞的聖誕願望,video://https://www.faintv.com/channel/20362
+小狼童阿飛,video://https://www.faintv.com/channel/21557
+迷雁返家路,video://https://www.faintv.com/channel/22103
+
+
+
+
+龍華電影台,video://http://www.faintv.com/channel/132
+龍華洋片台,video://http://www.faintv.com/channel/228
+龍華經典台,video://http://www.faintv.com/channel/234
+龍華日韓台,video://http://www.faintv.com/channel/116
+龍華戲劇台,video://http://www.faintv.com/channel/95
+龍華偶像台,video://http://www.faintv.com/channel/122
+TVB星河台,video://http://www.faintv.com/channel/17767
+花系列戲劇,video://http://www.faintv.com/channel/12491
+
+
+
+KOOLAA,video://http://www.faintv.com/channel/19028
+Pace Sport,video://http://www.faintv.com/channel/5353
+MOMO運動綜合台,video://http://www.faintv.com/channel/14009
+博斯高球一台,video://http://www.faintv.com/channel/108
+博斯高球二台,video://http://www.faintv.com/channel/125
+博斯無限台,video://http://www.faintv.com/channel/129
+博斯無限二台,video://http://www.faintv.com/channel/418
+博斯網球台,video://http://www.faintv.com/channel/53
+博斯魅力台,video://http://www.faintv.com/channel/135
+博斯運動一台,video://http://www.faintv.com/channel/102
+博斯運動二台,video://http://www.faintv.com/channel/124
+統一獅經典回看,video://http://www.faintv.com/channel/16732
+富邦悍將經典回看,video://http://www.faintv.com/channel/16731
+
+
+
+EuroNews,video://http://www.faintv.com/channel/17576
+CNA News,video://http://www.faintv.com/channel/12284
+FRANCE 24,video://http://www.faintv.com/channel/16271
+ARIRANG NEWS,video://http://www.faintv.com/channel/16272
+
+
+
+愛上ㄆㄤˋ滋味,video://https://www.faintv.com/channel/21568
+霹靂圖騰,video://https://www.faintv.com/channel/18197
+霹靂龍圖霸業,video://https://www.faintv.com/channel/18199
+霹靂兵燹,video://https://www.faintv.com/channel/18246
+霹靂爭王記,video://https://www.faintv.com/channel/18109
+霹靂封靈島,video://https://www.faintv.com/channel/18244
+善德女王,video://https://www.faintv.com/channel/15359
+家宴,video://https://www.faintv.com/channel/6945
+鳯囚凰,video://https://www.faintv.com/channel/17313
+
+
+
+
+
+
+雲端電音狂潮,video://http://www.faintv.com/channel/20370
+雲端爵士樂,video://https://www.faintv.com/channel/21549
+雲端鋼琴音樂,video://https://www.faintv.com/channel/22124
+雲端水晶音樂,video://https://www.faintv.com/channel/22125
+雲端小野麗莎風格音樂,video://https://www.faintv.com/channel/22126
+美女郊遊遊,video://http://www.faintv.com/channel/19121
+台灣山步行,video://http://www.faintv.com/channel/19190
+臺灣文西Only You,video://http://www.faintv.com/channel/19409
+交換旅遊日記,video://http://www.faintv.com/channel/18978
+富士山朝聖之旅,video://http://www.faintv.com/channel/19407
+煮吧換咗我阿媽,video://https://www.faintv.com/channel/19194
+餸情,video://https://www.faintv.com/channel/19459
+
+
+
+隱形少女,video://http://www.faintv.com/channel/21026
+玩命賽道,video://http://www.faintv.com/channel/21028
+士兵突擊隊,video://http://www.faintv.com/channel/17927
+入侵者,video://http://www.faintv.com/channel/20363
+史前魔種,video://https://www.faintv.com/channel/21641
+校園爭霸戰,video://https://www.faintv.com/channel/19233
+不丹是教室,video://https://www.faintv.com/channel/21646
+可不可以-你也剛好喜歡我,video://http://www.faintv.com/channel/14589
+科技浩劫,video://http://www.faintv.com/channel/17364
+死屍日,video://https://www.faintv.com/channel/17686
+寒戰2,video://http://www.faintv.com/channel/16473
+無間行者之生死潛行,video://http://www.faintv.com/channel/16501
+阿虎,video://http://www.faintv.com/channel/19230
+三國殺幻,video://https://www.faintv.com/channel/21642
+變種人幽靈戰姬,video://https://www.faintv.com/channel/21648
+臥底巨星,video://https://www.faintv.com/channel/22095
+西遊記-女兒國,video://https://www.faintv.com/channel/17920
+古劍奇譚之流月昭明,video://https://www.faintv.com/channel/21031
+
+
+
+
+
+
+
+
+
+🌸 日韓頻道,#genre#
+
+
+
+
+
+
+テレ朝NEWS24,https://www.youtube.com/watch?v=coYw-eVU0Ks
+緊急地震速報,https://www.youtube.com/watch?v=c7_kqMFDE8c
+日テレNEWS,https://www.youtube.com/watch?v=t9kwjZBLI-A
+QVCライブ,https://www.youtube.com/watch?v=dPTTMvUm9uA
+Speak Japanese,https://www.youtube.com/watch?v=d6f46ZUzJig
+
+
+Arirang TV,https://www.youtube.com/watch?v=CJVBX7KI5nU
+KBS WORLD TV,https://www.youtube.com/watch?v=OxQQsIvJTTU
+KBS News,https://www.youtube.com/watch?v=M1WrMEUOBsU
+MBC,https://www.youtube.com/watch?v=q9bM12ucTIY
+THE K-POP,https://www.youtube.com/watch?v=JVocS7Yftw8
+YonhapnewsTV,https://www.youtube.com/watch?v=6QZ_qc75ihU
+YTN,https://www.youtube.com/watch?v=FJfwehhzIhw
+매일경제TV,https://www.youtube.com/watch?v=s9xL1DpBsfQ
+벌거벗은 세계사,https://www.youtube.com/watch?v=b5UeAVqz4cI
+SBS,https://www.youtube.com/watch?v=RevYuGM_Bx0
+
+
+
+
+🏆 體育專區,#genre#
+
+
+
+
+
+
+🎵 綜合音樂,#genre#
+
+
+
+1muz,http://hz1.teleport.cc/HLS/HD.m3u8
+Bossa Nova Jazz,https://www.youtube.com/watch?v=NpokNpxhDmI
+Chillout Lounge 2025,https://www.youtube.com/watch?v=QrX_hJVIOrE
+Coffee Jazz,https://www.youtube.com/watch?v=fEvM-OUbaKs
+Deep & Melodic House,https://www.youtube.com/watch?v=WsDyRAPFBC8
+Deep House Radio,https://www.youtube.com/watch?v=IkmLXvBfVv0
+Deep House,https://www.youtube.com/watch?v=Ihm9OQWmibA
+Hits Radio 1,https://www.youtube.com/watch?v=SwiqSo3mXSE
+jazz lofi radio.https://www.youtube.com/watch?v=HuFYqnbVbzY
+Jeka,https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+KKBOX華語單曲,https://www.youtube.com/watch?v=0NmaXNsHONI
+Live POP Radio,https://www.youtube.com/watch?v=TtNXER1Cgzo
+lofi hip hop radio,https://www.youtube.com/watch?v=28KRPhVzCus
+LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
+Morning Vibes 2025,https://www.youtube.com/watch?v=ZHkkgIA0Dy4
+Music Radio 1,https://www.youtube.com/watch?v=FVLNVecHzvI
+OKK,https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+Old Love Songs,https://www.youtube.com/watch?v=ZTqt3CYehuE
+Peaceful Music,https://www.youtube.com/watch?v=dXIyMS61B68
+POP Star,https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+Progressive House,https://www.youtube.com/watch?v=d8Oc90QevaI
+Radio POP Mix,https://www.youtube.com/watch?v=x-JC7sJJUW8
+Rainy Piano Radio,https://www.youtube.com/watch?v=-5ajVJ1Yxlg
+Rock&Roll,https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+Slow Jazz,https://www.youtube.com/watch?v=Dx5qFachd3A
+Spa Music,https://www.youtube.com/watch?v=DnoTqKe04Rc
+Space Ambient Music,https://www.youtube.com/watch?v=tNkZsRW7h2c
+Spring Lounge 2025,https://www.youtube.com/watch?v=eoFU5bMS_uY
+Starbucks Music,https://www.youtube.com/watch?v=Efu7J9uQMxY
+The Good Life Radio,https://www.youtube.com/watch?v=36YnV9STBqc
+THE K-POP,https://www.youtube.com/watch?v=JVocS7Yftw8
+THE K-POP2,https://www.youtube.com/watch?v=8fHegYsHwZQ
+Vibing with K-POP,https://www.youtube.com/watch?v=jhsltv-xwQg
+WorldwideM,https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+抖音歌曲2025,https://www.youtube.com/watch?v=vBLdfhjMIoI
+美丽城市和软钢琴音乐,https://www.youtube.com/watch?v=TZikBxNaaQk
+浪漫吉他音樂,https://www.youtube.com/watch?v=xNgv8mIk0tA
+減輕壓力音樂,https://www.youtube.com/watch?v=wKg71lcs5Nw
+舒緩神經音樂,https://www.youtube.com/watch?v=DO9WCXMfRuc
+溫暖英文歌單,https://www.youtube.com/watch?v=Faao4mkcwY4
+睡眠音樂-1,https://www.youtube.com/watch?v=b_TW4NYsbOo
+睡眠音樂-2,https://www.youtube.com/watch?v=TO4CiZXapP0
+睡眠音樂-3,https://www.youtube.com/watch?v=G6M5Upcrwf8
+睡眠音樂-4,https://www.youtube.com/watch?v=hYz1oOcAuk8
+睡眠音樂-5,https://www.youtube.com/watch?v=zutrCU4N0hk
+睡眠音樂-6,https://www.youtube.com/watch?v=zoz0eXzFFns
+緩解壓力-1,https://www.youtube.com/watch?v=jvXwD1dMvYM
+緩解壓力-2,https://www.youtube.com/watch?v=BcwNV1cCoaU
+緩解壓力-3,https://www.youtube.com/watch?v=SjkGdCuT8zg
+緩解壓力-4https://www.youtube.com/watch?v=pw5gYa4-yGI
+心情放鬆的韓文歌,https://www.youtube.com/watch?v=EmY9P98hOSU
+
+
+
+
+
+📻 廣播電台,#genre#
+
+
+
+80後音樂,http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
+AsiaFMHD音樂台,http://asiafm.hk:8000/asiahd
+AsiaFM亞洲音樂台,http://asiafm.hk:8000/asiafm
+AsiaFM亞洲經典台,http://goldfm.cn:8000/goldfm
+AsiaFM亞洲電台,http://stream.rcs.revma.com/xpgtqc74hv8uv
+BestRadio好事903,http://live.cooltv.top/tv/bestradio_backup.php?id=2
+BestRadio好事935,http://live.cooltv.top/tv/bestradio_backup.php?id=4
+BestRadio好事989,http://live.cooltv.top/tv/bestradio_backup.php?id=1
+BestRadio港都983,http://live.cooltv.top/tv/bestradio_backup.php?id=3
+BravoFM臺北都會音樂台,https://onair.bravo913.com.tw:9130/live.mp3
+CAPITAL 958,https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
+CityFM大苗栗,http://fm983.cityfm.tw:8080/983.mp3
+CityFM台南知音,http://fm971.cityfm.tw:8080/971.mp3
+CityFM城市廣播,http://fm929.cityfm.tw:8080/929.mp3
+CityFM臺北健康,http://fm901.cityfm.tw:8080/901.mp3
+CRI Hit FM FM88.7,http://sk.cri.cn/887.m3u8
+CRI 南海之聲,http://sk.cri.cn/nhzs.m3u8
+CRI 輕鬆調頻,http://sk.cri.cn/915.m3u8
+HD音樂,https://lhttp.qingting.fm/live/15318341/64k.mp3
+KissRadio大眾廣播,http://live.cooltv.top/tv/kissradio_backup.php
+Lounge Radio,http://streaming.radionomy.com/JamendoLounge
+M-Radio全國廣播,http://stream.rcs.revma.com/044q61ha7a0uv
+M-Radio全國廣播,http://stream.rcs.revma.com/044q61ha7a0uv/hls.m3u8
+News98 新聞台,http://stream.rcs.revma.com/55tyxsy4qtzuv
+News98新聞台,http://n08.rcs.revma.com/55tyxsy4qtzuv?rj-ttl=5&rj-tok=AAABexIiGVkA-wjPtoygVgeNGQ
+News98新聞台,http://n12.rcs.revma.com/55tyxsy4qtzuv
+News98新聞台,http://stream.rcs.revma.com/55tyxsy4qtzuv
+PulseFM心動音樂電台,http://live.cooltv.top/tv/pulsefm.php
+RTI國語,http://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8
+TRACE,http://tv543.cc/litv.php?id=4gtv-4gtv082
+VOA美國之音,http://stream.radiojar.com/7thwu53r92quv
+VOA美國之音,http://voa-11.akacast.akamaistream.net/7/317/322023/v1/ibb.akacast.akamaistream.net/voa-11.mp3
+VOCALO,https://stream.wbez.org/vocalolinear
+YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
+中廣流行網,http://n14.rcs.revma.com/aw9uqyxy2tzuv
+中廣流行網,http://stream.rcs.revma.com/aw9uqyxy2tzuv
+中廣音樂網,http://n07.rcs.revma.com/ks4vsmg3qtzuv
+中廣音樂網,http://stream.rcs.revma.com/ks4vsmg3qtzuv
+中廣新聞網,http://n12.rcs.revma.com/78fm9wyy2tzuv
+中廣新聞網,http://stream.rcs.revma.com/78fm9wyy2tzuv
+天籟之音-國風,http://play-radio-stream3.hndt.com/now/UzPxbRaT/playlist.m3u8
+天籟古典,http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
+太陽電台,http://211.20.119.102:8081
+心靈音樂館,http://play-radio-stream3.hndt.com/now/AFqvb0VX/playlist.m3u8
+古典音樂台,http://59.120.88.155:8000/live.mp3
+台中古典音樂台,https://onair.family977.com.tw:8977/live.mp3
+台中廣播電臺,http://211.20.119.101:8081
+台南知音,http://fm971.cityfm.tw:8080/971.mp3
+台灣古典音樂台,http://59.120.88.155:8000/live.mp3
+正義電台,http://211.20.119.103:8081
+正聲FM104.1,http://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/playlist.m3u8
+正聲綜合,http://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live2/playlist.m3u8
+民謠藍調,http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
+光華之聲,http://live.cooltv.top/tv/kwongwah.php
+全國治安交通台,http://stream.pbs.gov.tw:1935/live/PBS/playlist.m3u8
+全國治安交通網,http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8
+私房音樂,http://livestream.1766.today:1769/live1.mp3
+亞洲天空,https://lhttp.qingting.fm/live/20071/64k.mp3
+亞洲音樂,https://lhttp.qingting.fm/live/5022405/64k.mp3
+亞洲粵語,https://lhttp.qingting.fm/live/15318569/64k.mp3
+亞洲經典,https://lhttp.qingting.fm/live/5021912/64k.mp3
+亞洲熱歌,https://live.ximalaya.com/radio-first-page-app/live/1908/64.m3u8?transcode=ts
+佳音現代音樂網,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch04/playlist.m3u8
+佳音經典音樂網,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch03/chunklist.m3u8
+佳音經典音樂網,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch03/playlist.m3u8
+佳音羅東宜蘭FM90.3,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch02/chunklist.m3u8
+佳音羅東宜蘭FM90.3,http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch02/playlist.m3u8
+店頭音樂,http://livestream.1766.today:1781/live2.mp3
+飛特電台,https://phate.io/listen.ogg
+飛碟電台,http://n08.rcs.revma.com/em90w4aeewzuv
+飛碟電台,http://stream.rcs.revma.com/em90w4aeewzuv
+香港第三台,https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
+員警廣播台中分台,http://stream.pbs.gov.tw:1935/live/TCS/playlist.m3u8
+員警廣播台東分台,http://stream.pbs.gov.tw:1935/live/TTS/playlist.m3u8
+員警廣播台南分台,http://stream.pbs.gov.tw:1935/live/TNS/playlist.m3u8
+員警廣播宜蘭分台,http://stream.pbs.gov.tw:1935/live/ELS/playlist.m3u8
+員警廣播花蓮分台,http://stream.pbs.gov.tw:1935/live/HLS/playlist.m3u8
+員警廣播高雄分台,http://stream.pbs.gov.tw:1935/live/KSS/playlist.m3u8
+員警廣播新竹分台,http://stream.pbs.gov.tw:1935/live/SCS/playlist.m3u8
+員警廣播臺北分台,http://stream.pbs.gov.tw:1935/live/TPS/playlist.m3u8
+動感音樂台1,http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
+動感音樂台2,http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
+動感音樂台3,http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
+動感音樂台4,http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
+國立教育電台,http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8
+清晨音樂台,http://live.xmcdn.com:80/live/1011/64.m3u8
+復興電台,http://live.cooltv.top/tv/fhbs.php
+漢聲廣播電台AM,http://live.cooltv.top/tv/voh.php?id=2
+漢聲廣播電台FM,http://live.cooltv.top/tv/voh.php?id=1
+臺北廣播電台FM93.1,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
+臺灣Lounge Radio音樂,http://streaming.radionomy.com/JamendoLounge
+臺灣古典音樂台,http://59.120.88.155:8000/live.mp3
+臺灣國立教育廣播,https://cast.ner.gov.tw/1?_t=1628097047202
+舞迷心竅,http://play-radio-stream3.hndt.com/now/WBhgSD3A/playlist.m3u8
+輕鬆電台,http://stream.rcs.revma.com/k41z6wadu5hvv
+潮流音樂,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
+環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
+
+
+
+
+
+
