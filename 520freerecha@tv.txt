@@ -7,7 +7,7 @@ ua=http/1.1 okhttp/3.8.1 okhttp/3.15 okhttp/4.12.0 Herissmon/2016 judy/5.2.1 Rob
 
 
 
-🚧 0203 check,#genre#
+🚧 0204 check,#genre#
 
 Test Video,https://www.youtube.com/watch?v=Cx0wbANAWxM
 AI倪珍今日新聞,https://www.youtube.com/watch?v=YBgQRpZqeug
@@ -21,20 +21,18 @@ AI倪珍24小時氣象,https://www.youtube.com/watch?v=Tf3mktyg6bU
 📺 Free TV頻道,#genre#
 
 
-
 8視界,https://www.youtube.com/watch?v=RvSOIM620bA
 ABC News,https://www.youtube.com/watch?v=iipR5yUp36o
+AMC電影台,http://106.107.234.186:50007/4gtv-4gtv017/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 AMC電影台,http://211.23.114.106:9359/http/59.120.8.187:8092/upload/115/AMC_TS-1111_1.m3u8
 AMC電影台,http://211.23.114.106:9359/http/61.67.128.137:8092/upload/115/AMC_TS-1111_1.m3u8
-AMC電影台,http://7.iptv543.com:50007/4gtv-4gtv017/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 AMC電影台,http://dreamtv.sylu.net:2082/play/4gtv-4gtv017/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-ANIMAX,http://tw.護法.cloudns.ch:21096/mk.php?id=live1060
 ANN News,https://live.catvod.com/live.php?id=ttvnews_twn
-Arirang TV,http://7.iptv543.com:50007/4gtv-4gtv079/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+Arirang TV,http://106.107.234.186:50007/4gtv-4gtv079/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 Arirang TV,http://dreamtv.sylu.net:2082/play/4gtv-4gtv079/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 Arirang TV,https://live.catvod.com/live.php?id=arirang_twn
 Arirang TV,https://www.youtube.com/watch?v=CJVBX7KI5nU
-AXN Taiwan,https://live.catvod.com/live.php?id=axn_twn
+AXN,https://live.catvod.com/live.php?id=axn_twn
 AXN,http://211.23.114.106:9357/http/59.120.8.187:8081/hls/71/813/ch43.m3u8
 AXN,http://211.23.114.106:9357/http/61.67.128.137:8081/hls/71/813/ch43.m3u8
 AXN,http://61.221.81.93:8595/http/192.168.1.10:8088/hls/71/813/ch43.m3u8
@@ -47,20 +45,20 @@ CCTV4 中文國際(亞洲),http://211.23.114.106:8542/http/59.120.8.187:8078/hls
 CCTV4 中文國際(亞洲),http://211.23.114.106:8542/http/61.67.128.137:8078/hls/42/80/cctv4.m3u8
 CCTV4 中文國際(亞洲),https://www.youtube.com/watch?v=7j92Myu2wzg
 CCTV4 中文國際(美洲),https://www.youtube.com/watch?v=f6Kq93wnaZ8
+CI 罪案偵查頻道,http://106.107.234.186:50007/4gtv-live027/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 CI 罪案偵查頻道,http://52xinghe.top/smmmt.php?id=ci_twn&h=52xinghe.top&p=7788
-CI 罪案偵查頻道,http://7.iptv543.com:50007/4gtv-live027/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 CI 罪案偵查頻道,http://dreamtv.sylu.net:2082/play/4gtv-live027/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-Cinema World,http://7.iptv543.com:50007/4gtv-live069/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+Cinema World,http://106.107.234.186:50007/4gtv-live069/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 Cinema World,http://dreamtv.sylu.net:2082/play/4gtv-live069/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 CINEMAX,http://211.23.114.106:9358/http/59.120.8.187:8081/hls/71/813/ch42.m3u8
 CINEMAX,http://211.23.114.106:9358/http/61.67.128.137:8081/hls/71/813/ch42.m3u8
 CINEMAX,http://61.221.81.93:8596/http/192.168.1.10:8088/hls/71/813/ch42.m3u8
 CINEMAX,https://live.catvod.com/live.php?id=cinemax_twn
-CLASSICA古典音樂,http://7.iptv543.com:50007/4gtv-4gtv059/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+CLASSICA古典音樂,http://106.107.234.186:50007/4gtv-4gtv059/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 CLASSICA古典音樂,http://dreamtv.sylu.net:2082/play/4gtv-4gtv059/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-CMusic,http://7.iptv543.com:50007/4gtv-live031/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+CMusic,http://106.107.234.186:50007/4gtv-live031/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 CMusic,http://dreamtv.sylu.net:2082/play/4gtv-live031/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-CNBC Asia,http://7.iptv543.com:50007/4gtv-live130/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+CNBC Asia,http://106.107.234.186:50007/4gtv-live130/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 CNBC Asia,http://dreamtv.sylu.net:2082/play/4gtv-live130/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 DAZN體育1,http://211.23.114.106:8523/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 DAZN體育1,http://211.23.114.106:8523/http/61.67.128.137:8078/hls/25/80/esport.m3u8
@@ -71,29 +69,30 @@ DAZN體育2,http://211.23.114.106:8555/http/61.67.128.137:8078/hls/26/80/esport2
 DAZN體育2,https://live.catvod.com/live.php?id=dazn2_twn
 DAZN體育2,rtmp://f13h.mine.nu/sat/tv741
 Discovery Asia,http://52xinghe.top/smmmt.php?id=discoverytwn_twn&h=52xinghe.top&p=7788
+Discovery Asia,https://live-broadcast-sh-service.vcinema.cn/live/79a8c256b1d21bc7ff6682865c43e331.flv
+Discovery DMAX,http://52xinghe.top/smmmt.php?id=discoveryhd_twn&h=52xinghe.top&p=7788
+Discovery SCI,https://live-broadcast-sh-service.vcinema.cn/live/f07af9fc0e689617b1f43f2c321bdc36.flv
 Discovery,http://211.23.114.106:9310/http/59.120.8.187:8081/hls/71/813/ch44.m3u8
 Discovery,http://211.23.114.106:9310/http/61.67.128.137:8081/hls/71/813/ch44.m3u8
 Discovery,http://61.221.81.93:8551/http/192.168.1.10:8088/hls/71/813/ch44.m3u8
-DMAX,http://52xinghe.top/smmmt.php?id=discoveryhd_twn&h=52xinghe.top&p=7788
-DMAX,http://52xinghe.top/smmmt.php?id=natgeohd_twn&h=52xinghe.top&p=7788
-DreamWorks,http://7.iptv543.com:50007/4gtv-live017/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+DreamWorks,http://106.107.234.186:50007/4gtv-live017/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 DreamWorks,http://dreamtv.sylu.net:2082/play/4gtv-live017/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-DW德國之聲,http://7.iptv543.com:50007/4gtv-live071/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+DW德國之聲,http://106.107.234.186:50007/4gtv-live071/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 DW德國之聲,http://dreamtv.sylu.net:2082/play/4gtv-live071/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 DW德國之聲,https://live.catvod.com/live.php?id=dw_twn
-ELTV生活英語,http://7.iptv543.com:50007/litv-xinchuang20/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+ELTV生活英語,http://106.107.234.186:50007/litv-xinchuang20/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 ELTV生活英語,http://dreamtv.sylu.net:2082/play/4gtv-live132/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 EYE戲劇,https://live.catvod.com/live.php?id=eyetvxiju_twn
-FRANCE 24,http://7.iptv543.com:50007/4gtv-live146/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+FRANCE 24,http://106.107.234.186:50007/4gtv-live146/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 FRANCE 24,http://dreamtv.sylu.net:2082/play/4gtv-live146/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 FRANCE 24,https://www.youtube.com/watch?v=Ap-UM1O9RBU
-FUN 4K探索娛樂,http://7.iptv543.com:50007/4gtv-live011/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+FUN 4K探索娛樂,http://106.107.234.186:50007/4gtv-live011/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 FUN 4K探索娛樂,http://dreamtv.sylu.net:2082/play/4gtv-live011/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-GagaOOLala,http://7.iptv543.com:50007/4gtv-live139/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+GagaOOLala,http://106.107.234.186:50007/4gtv-live139/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 GagaOOLala,http://dreamtv.sylu.net:2082/play/4gtv-live139/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-GINX Esports TV,http://7.iptv543.com:50007/4gtv-4gtv053/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+GINX Esports TV,http://106.107.234.186:50007/4gtv-4gtv053/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 GINX Esports TV,http://dreamtv.sylu.net:2082/play/4gtv-4gtv053/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-Global Trekker,http://7.iptv543.com:50007/4gtv-live112/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+Global Trekker,http://106.107.234.186:50007/4gtv-live112/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 Global Trekker,http://dreamtv.sylu.net:2082/play/4gtv-live112/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 HBO Family,http://52xinghe.top/smmmt.php?id=fyi_twn&h=52xinghe.top&p=7788
 HBO,http://211.23.114.106:9356/http/59.120.8.187:8081/hls/71/813/ch41.m3u8
@@ -101,172 +100,191 @@ HBO,http://211.23.114.106:9356/http/61.67.128.137:8081/hls/71/813/ch41.m3u8
 HBO,http://220.134.196.147:9520/index.m3u8
 HBO,http://61.221.81.93:8594/http/192.168.1.10:8088/hls/71/813/ch41.m3u8
 HBO-Hits,https://live.catvod.com/live.php?id=hbohits_twn
-HITS,http://7.iptv543.com:50007/4gtv-live620/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+HITS,http://106.107.234.186:50007/4gtv-live620/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 HITS,http://dreamtv.sylu.net:2082/play/4gtv-live620/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-INULTRA,http://7.iptv543.com:50007/4gtv-live096/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+INULTRA,http://106.107.234.186:50007/4gtv-live096/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 INULTRA,http://dreamtv.sylu.net:2082/play/4gtv-live096/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 JET綜合,http://61.221.81.93:8560/http/192.168.1.10:8088/hls/74/816/ch54.m3u8
 KBS WORLD TV,https://www.youtube.com/watch?v=OxQQsIvJTTU
-Lifetime,http://7.iptv543.com:50007/4gtv-live029/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+Lifetime,http://106.107.234.186:50007/4gtv-live029/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 Lifetime,http://dreamtv.sylu.net:2082/play/4gtv-live029/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-LiveABC互動英語,http://7.iptv543.com:50007/4gtv-live030/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+LiveABC互動英語,http://106.107.234.186:50007/4gtv-live030/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 LiveABC互動英語,http://dreamtv.sylu.net:2082/play/4gtv-live030/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-LOVE NATURE,http://7.iptv543.com:50007/4gtv-live208/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+LOVE NATURE,http://106.107.234.186:50007/4gtv-live208/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 LOVE NATURE,http://dreamtv.sylu.net:2082/play/4gtv-live208/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-LUXE TV,http://7.iptv543.com:50007/4gtv-live121/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+LUXE TV,http://106.107.234.186:50007/4gtv-live121/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 LUXE TV,http://dreamtv.sylu.net:2082/play/4gtv-live121/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-Magellan TV,http://7.iptv543.com:50007/4gtv-live123/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+Magellan TV,http://106.107.234.186:50007/4gtv-live123/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 Magellan TV,http://dreamtv.sylu.net:2082/play/4gtv-live123/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-MCE,http://7.iptv543.com:50007/litv-ftv10/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+MCE,http://106.107.234.186:50007/litv-ftv10/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 MCE,http://dreamtv.sylu.net:2082/play/litv-ftv10/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-MEZZO LIVE,http://7.iptv543.com:50007/4gtv-4gtv083/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+MEZZO LIVE,http://106.107.234.186:50007/4gtv-4gtv083/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 MEZZO LIVE,http://dreamtv.sylu.net:2082/play/4gtv-4gtv083/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 MOMO TV,http://211.23.114.106:8511/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
 MOMO TV,http://211.23.114.106:8511/http/61.67.128.137:8081/hls/76/818/momo_max.m3u8
 MOMO TV,http://61.221.81.93:8565/http/192.168.1.10:8088/hls/76/818/momo_max.m3u8
 MOMO TV,rtmp://f13h.mine.nu/sat/tv761
+MOMO親子,http://106.107.234.186:50007/4gtv-live107/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 MOMO親子,http://211.23.114.106:8516/http/59.120.8.187:8081/hls/90/80/momo4max.m3u8
 MOMO親子,http://211.23.114.106:8516/http/61.67.128.137:8081/hls/90/80/momo4max.m3u8
-MOMO親子,http://7.iptv543.com:50007/4gtv-live107/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 MOMO親子,http://dreamtv.sylu.net:2082/play/4gtv-live107/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-MTV Live,http://7.iptv543.com:50007/4gtv-live025/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+MTV Live,http://106.107.234.186:50007/4gtv-live025/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
+NHK WORLD,http://106.107.234.186:50007/4gtv-live168/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 NHK WORLD,http://211.23.114.106:9351/http/59.120.8.187:8081/hls/62/804/ch06.m3u8
 NHK WORLD,http://211.23.114.106:9351/http/61.67.128.137:8081/hls/62/804/ch06.m3u8
 NHK WORLD,http://61.221.81.93:8564/http/192.168.1.10:8088/hls/62/804/ch06.m3u8
-NHK WORLD,http://7.iptv543.com:50007/4gtv-live168/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 NHK WORLD,http://dreamtv.sylu.net:2082/play/4gtv-live168/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 NHK WORLD,https://www.youtube.com/watch?v=f0lYkdA-Gtw
-Nick Jr,http://7.iptv543.com:50007/4gtv-live032/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+Nick Jr,http://106.107.234.186:50007/4gtv-live032/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 Nick Jr,http://dreamtv.sylu.net:2082/play/4gtv-live032/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-Nickelodeon,http://7.iptv543.com:50007/4gtv-live105/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+Nickelodeon,http://106.107.234.186:50007/4gtv-live105/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 Nickelodeon,http://dreamtv.sylu.net:2082/play/4gtv-live105/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+Pet Club TV,http://106.107.234.186:50007/li-4gtv-4gtv110/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 Pet Club TV,http://211.23.114.106:9360/http/59.120.8.187:8078/hls/40/80/pettv.m3u8
 Pet Club TV,http://211.23.114.106:9360/http/61.67.128.137:8078/hls/40/80/pettv.m3u8
-Pet Club TV,http://7.iptv543.com:50007/li-4gtv-4gtv110/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
-Pet Club TV,http://tw.護法.cloudns.ch:21096/mk.php?id=live1040
 RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-ROCK Action,http://7.iptv543.com:50007/4gtv-live138/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+ROCK Action,http://106.107.234.186:50007/4gtv-live138/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 ROCK Action,http://dreamtv.sylu.net:2082/play/4gtv-live138/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-ROCK Entertainment,http://7.iptv543.com:50007/4gtv-live080/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+ROCK Entertainment,http://106.107.234.186:50007/4gtv-live080/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 ROCK Entertainment,http://dreamtv.sylu.net:2082/play/4gtv-live080/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 Sky News,https://www.youtube.com/watch?v=YDvsBbKfLPA
-Smart知識台,http://7.iptv543.com:50007/litv-xinchuang19/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
-Smart知識台https://live.catvod.com/live.php?id=eyetvtravel_twn
-Taiwan Plus,http://tw.護法.cloudns.ch:21096/mk.php?id=live1238
+Smart知識台,http://106.107.234.186:50007/litv-xinchuang19/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
+Smart知識台,https://live.catvod.com/live.php?id=eyetvtravel_twn
 TLC旅遊生活,http://211.23.114.106:9311/http/59.120.8.187:8081/hls/70/812/ch38.m3u8
 TLC旅遊生活,http://211.23.114.106:9311/http/61.67.128.137:8081/hls/70/812/ch38.m3u8
-TRACE Sport Stars,http://7.iptv543.com:50007/4gtv-4gtv077/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
-TRACE URBAN,http://7.iptv543.com:50007/4gtv-4gtv082/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+TRACE Sport Stars,http://106.107.234.186:50007/4gtv-4gtv077/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
+TRACE URBAN,http://106.107.234.186:50007/4gtv-4gtv082/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 TRACE URBAN,http://dreamtv.sylu.net:2082/play/4gtv-4gtv082/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-TV5MONDE Style,http://7.iptv543.com:50007/4gtv-live122/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+TV5MONDE Style,http://106.107.234.186:50007/4gtv-live122/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 TV5MONDE Style,http://dreamtv.sylu.net:2082/play/4gtv-live122/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+TVBS HD,http://106.107.234.186:50007/4gtv-4gtv073/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 TVBS HD,http://211.23.114.106:9344/http/59.120.8.187:8081/hls/75/817/ch58.m3u8
 TVBS HD,http://211.23.114.106:9344/http/61.67.128.137:8081/hls/75/817/ch58.m3u8
-TVBS HD,http://7.iptv543.com:50007/4gtv-4gtv073/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+TVBS HD,http://hls-pull-tvpublica.speedws.com/live/XhyG6NWlXFUuLxA75JShFUJC6ZK7Wl7b9ohSUJ8ZFuoN6bpFMv.flv
+TVBS HD,http://live-broadcast-sh-service.vcinema.cn/live/834b470c0360f9e1d710d4087197d14f.flv
 TVBS HD,https://live.catvod.com/live.php?id=tvbs
 TVBS News,https://www.youtube.com/watch?v=m_dhMSvUCIc
-TVBS台劇,http://7.iptv543.com:50007/4gtv-live088/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+TVBS台劇,http://106.107.234.186:50007/4gtv-live088/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 TVBS台劇,http://dreamtv.sylu.net:2082/play/4gtv-live088/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+TVBS台劇,http://hls-pull-tvpublica.speedws.com/live/DMBDr5IM1N6bpFYTrRtv2GOHF7WpbaYWfblCoaPKBCnroeRU1I.flv
 TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+TVBS新聞,http://106.107.234.186:50007/4gtv-4gtv072/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 TVBS新聞,http://211.23.114.106:8510/http/59.120.8.187:8081/hls/75/817/ch59.m3u8
 TVBS新聞,http://211.23.114.106:8510/http/61.67.128.137:8081/hls/75/817/ch59.m3u8
-TVBS新聞,http://7.iptv543.com:50007/4gtv-4gtv072/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+TVBS新聞,http://hls-pull-tvpublica.speedws.com/live/AocNA7nvWaoTEOU1kWJnR67lpr38ITf0CHqgjYOaOYV5JSmoP2.flv
 TVBS新聞,https://live.catvod.com/live.php?id=tvbs_n
-TVBS精采,http://7.iptv543.com:50007/4gtv-4gtv067/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+TVBS精采,http://106.107.234.186:50007/4gtv-4gtv067/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 TVBS精采,http://dreamtv.sylu.net:2082/play/4gtv-4gtv067/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-TVBS綜藝,http://7.iptv543.com:50007/4gtv-live087/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+TVBS精采,http://hls-pull-tvpublica.speedws.com/live/0N6bpFYaU9Xvyn84tynbS8cp3vajDiOp3ZDqrurb4MEtTsSxi5.flv
+TVBS綜藝,http://106.107.234.186:50007/4gtv-live087/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 TVBS綜藝,http://dreamtv.sylu.net:2082/play/4gtv-live087/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+TVBS綜藝,http://hls-pull-tvpublica.speedws.com/live/A3NYezRcJMFiHfNU7m2qoJGo9QeaLF92qXfh4ZG7N6bpFe5gXW.flv
+TVBS歡樂,http://106.107.234.186:50007/4gtv-4gtv068/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 TVBS歡樂,http://61.221.81.93:8576/http/192.168.1.9:8088/hls/65/807/ch17.m3u8
-TVBS歡樂,http://7.iptv543.com:50007/4gtv-4gtv068/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 TVBS歡樂,http://dreamtv.sylu.net:2082/play/4gtv-4gtv068/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+TVBS歡樂,http://hls-pull-tvpublica.speedws.com/live/FaZ3VN6bpFKU2bz3b7Iy6f4evzUPNgMY6vKKkn7McVbTD5AXZW.flv
 メ～テレNEWS,https://www.youtube.com/watch?v=-C6FE2m7kX8
+人間衛視,http://106.107.234.186:50007/4gtv-live008/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 人間衛視,http://211.23.114.106:9306/http/59.120.8.187:8081/hls/69/811/ch36.m3u8
 人間衛視,http://211.23.114.106:9306/http/61.67.128.137:8081/hls/69/811/ch36.m3u8
 人間衛視,http://61.221.81.93:8526/http/192.168.1.10:8088/hls/69/811/ch36.m3u8
-人間衛視,http://7.iptv543.com:50007/4gtv-live008/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 人間衛視,http://dreamtv.sylu.net:2082/play/4gtv-live008/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 八大第一,http://211.23.114.106:9318/http/59.120.8.187:8081/hls/66/808/ch22.m3u8
 八大第一,http://211.23.114.106:9318/http/61.67.128.137:8081/hls/66/808/ch22.m3u8
 八大第一,http://61.221.81.93:8558/http/192.168.1.10:8088/hls/66/808/ch22.m3u8
 八大第一,https://live.catvod.com/live.php?id=badafirst
-八大精彩,http://7.iptv543.com:50007/4gtv-4gtv034/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+八大精采,http://hls-pull-tvpublica.speedws.com/live/Mmbibrtx6ELAN6bpFgCQJPo5cFfD4ac9qHiReeThSJOYuCG093.flv
+八大精彩,http://106.107.234.186:50007/4gtv-4gtv034/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 八大精彩,http://dreamtv.sylu.net:2082/play/4gtv-4gtv034/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 八大綜合,http://211.23.114.106:8521/http/59.120.8.187:8081/hls/66/808/ch21.m3u8
 八大綜合,http://211.23.114.106:8521/http/61.67.128.137:8081/hls/66/808/ch21.m3u8
 八大綜合,http://61.221.81.93:8559/http/192.168.1.10:8088/hls/66/808/ch21.m3u8
-八大綜藝,http://7.iptv543.com:50007/4gtv-4gtv039/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+八大綜合,http://hls-pull-tvpublica.speedws.com/live/lyeNKM6nN6bpFqBLwLi50nYwa9vDzXSLJcsjRctcdW47HCen3R.flv
+八大綜藝,http://106.107.234.186:50007/4gtv-4gtv039/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 八大戲劇,http://211.23.114.106:9330/http/59.120.8.187:8081/hls/66/808/ch23.m3u8
 八大戲劇,http://211.23.114.106:9330/http/61.67.128.137:8081/hls/66/808/ch23.m3u8
 八大戲劇,http://61.221.81.93:8575/http/192.168.1.10:8088/hls/66/808/ch23.m3u8
-三立iNEWS,http://7.iptv543.com:50007/4gtv-live089/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+八大戲劇,http://hls-pull-tvpublica.speedws.com/live/tcoFuckYouW3z0M8OqliMqUfQZJfEbo7DQotA44wLuM9f9tfTHuu.flv
+三立iNEWS,http://106.107.234.186:50007/4gtv-live089/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 三立iNEWS,http://dreamtv.sylu.net:2082/play/4gtv-live089/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 三立iNEWS,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=iNEWS&sd=1080&proxy=false
 三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
 三立台灣,http://211.23.114.106:9378/http/59.120.8.187:8081/hls/65/807/ch20.m3u8
 三立台灣,http://211.23.114.106:9378/http/61.67.128.137:8081/hls/65/807/ch20.m3u8
 三立台灣,http://61.221.81.93:8561/http/192.168.1.10:8088/hls/65/807/ch20.m3u8
+三立台灣,http://hls-pull-tvpublica.speedws.com/live/HNF1G6VXjmN6bpF8b2IWZ4pXKUKuJhO5vUHuNYiG1ISnPGPCuq.flv
 三立都會,http://211.23.114.106:8538/http/59.120.8.187:8081/hls/65/807/ch19.m3u8
 三立都會,http://211.23.114.106:8538/http/61.67.128.137:8081/hls/65/807/ch19.m3u8
 三立都會,http://61.221.81.93:8562/http/192.168.1.10:8088/hls/65/807/ch19.m3u8
 三立都會,https://live.catvod.com/live.php?id=sanlidouhui_twn
 三立新聞,http://61.221.81.93:8584/http/192.168.1.10:8088/hls/65/807/ch18.m3u8
 三立新聞,https://www.youtube.com/watch?v=QsGswQvRmtU
-三立綜合,http://7.iptv543.com:50007/4gtv-live207/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+三立綜合,http://106.107.234.186:50007/4gtv-live207/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 三立綜合,http://dreamtv.sylu.net:2082/play/4gtv-live207/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+三立綜合,http://hls-pull-tvpublica.speedws.com/live/jVZE8l0eYuVu58V4873fhJbRg8vONxIaO56YZN6bpFwLXJLNZ0.flv
+三立綜合,http://live-broadcast-sh-service.vcinema.cn/live/c89e8e75f51f0a780bf09ede5693220d.flv
 三立綜合,https://live.catvod.com/live.php?id=sanlizhonghe
+三立戲劇,http://hls-pull-tvpublica.speedws.com/live/c90A9Y0msnF5ahhkj43itJ3pD8TNeCk3VMdCN6bpFXwFStxefj.flv
+大愛,http://106.107.234.186:50007/4gtv-live007/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 大愛,http://211.23.114.106:9307/http/59.120.8.187:8081/hls/73/815/ch52.m3u8
 大愛,http://211.23.114.106:9307/http/61.67.128.137:8081/hls/73/815/ch52.m3u8
 大愛,http://61.221.81.93:8528/http/192.168.1.10:8088/hls/73/815/ch52.m3u8
-大愛,http://7.iptv543.com:50007/4gtv-live007/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 大愛,http://dreamtv.sylu.net:2082/play/4gtv-live007/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 大愛,https://live.catvod.com/live.php?id=daai_twn
 大愛,https://www.youtube.com/watch?v=MIqUplvSRWA
+大愛2台,http://106.107.234.186:50007/4gtv-live106/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 大愛2台,http://61.221.81.93:8540/http/192.168.1.9:8088/hls/75/817/ch60.m3u8
-大愛2台,http://7.iptv543.com:50007/4gtv-live106/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 大愛2台,http://dreamtv.sylu.net:2082/play/4gtv-live106/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 大愛2台,https://live.catvod.com/live.php?id=daai2_twn
 大愛2台,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 小公視,http://74.91.26.218:82/live/ptsse.m3u8
-小公視,http://74.91.26.218:82/live/ptsse.m3u8
-中天亞洲,http://7.iptv543.com:50007/4gtv-4gtv109/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+中天亞洲,http://106.107.234.186:50007/4gtv-4gtv109/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 中天娛樂,http://211.23.114.106:8508/http/59.120.8.187:8081/hls/67/809/ch26.m3u8
 中天娛樂,http://211.23.114.106:8508/http/61.67.128.137:8081/hls/67/809/ch26.m3u8
 中天娛樂,http://61.221.81.93:8568/http/192.168.1.10:8088/hls/67/809/ch26.m3u8
+中天娛樂,http://hls-pull-tvpublica.speedws.com/live/pkTGSVXC7wb7lK2z3JA0VW4c2FuckYou34K3QNCNk7b7X52TSVA0.flv
 中天娛樂,https://live.catvod.com/live.php?id=ctient
+中天新聞,http://106.107.234.186:50007/4gtv-4gtv009/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 中天新聞,http://61.221.81.93:8582/http/192.168.1.10:8088/hls/78/80/ch63max.m3u8
-中天新聞,http://7.iptv543.com:50007/4gtv-4gtv009/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 中天新聞,http://dreamtv.sylu.net:2082/play/4gtv-4gtv009/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+中天新聞,http://hls-pull-tvpublica.speedws.com/live/ogVoQHd38ITfdsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
+中天新聞,http://live-broadcast-sh-service.vcinema.cn/live/cc389f36ae96443281cfda92b3b3db29.flv
 中天新聞,https://live.catvod.com/live.php?id=ctiasia_twn
 中天新聞,https://live.catvod.com/live.php?id=ctinews
 中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
 中天綜合,http://211.23.114.106:9325/http/59.120.8.187:8081/hls/67/809/ch25.m3u8
 中天綜合,http://211.23.114.106:9325/http/61.67.128.137:8081/hls/67/809/ch25.m3u8
 中天綜合,http://61.221.81.93:8567/http/192.168.1.10:8088/hls/67/809/ch25.m3u8
+中天綜合,http://hls-pull-tvpublica.speedws.com/live/n3FuckYou7fEu63G7RxCkXpHu8Nfpi546vPyjxQuOl0aOAoViP2L.flv
 中天綜合,https://live.catvod.com/live.php?id=ctizhonghe
+中視,http://106.107.234.186:50007/4gtv-4gtv040/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 中視,http://211.23.114.106:8534/http/59.120.8.187:8081/hls/88/80/Ctv4max.m3u8
 中視,http://211.23.114.106:8534/http/61.67.128.137:8081/hls/88/80/Ctv4max.m3u8
-中視,http://7.iptv543.com:50007/4gtv-4gtv040/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 中視,http://74.91.26.218:82/live/ctv.m3u8
 中視,http://dreamtv.sylu.net:2082/play/4gtv-4gtv040/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+中視,http://live-broadcast-sh-service.vcinema.cn/live/f13cc578c4b1a2ab4c0e34cfef3a2f10.flv
 中視,rtmp://f13h.mine.nu/sat/tv091
 中視,rtmp://f13h.mine.nu:1935/sat/tv091
-中視菁采,http://7.iptv543.com:50007/4gtv-4gtv064/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+中視菁采,http://106.107.234.186:50007/4gtv-4gtv064/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 中視菁采,http://74.91.26.218:82/live/ctvjc.m3u8
-中視新聞,http://7.iptv543.com:50007/4gtv-4gtv074/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+中視新聞,http://106.107.234.186:50007/4gtv-4gtv074/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 中視新聞,http://74.91.26.218:82/live/ctvnews.m3u8
 中視新聞,http://dreamtv.sylu.net:2082/play/4gtv-4gtv074/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+中視新聞,http://hls-pull-tvpublica.speedws.com/live/hNsy4N2Yk38ITfwCSlOqFQ1aSenAhZLYUenP1IoaAltR3IXYOp.flv
+中視新聞,http://live-broadcast-sh-service.vcinema.cn/live/d05fb12fa6b6ff8ae34afade4583a77e.flv
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
-中視經典,http://7.iptv543.com:50007/4gtv-4gtv080/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+中視經典,http://106.107.234.186:50007/4gtv-4gtv080/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 中視經典,http://74.91.26.218:82/live/ctvjd.m3u8
 公視,http://211.23.114.106:8550/http/59.120.8.187:8081/hls/87/80/Pts4max.m3u8
 公視,http://211.23.114.106:8550/http/61.67.128.137:8081/hls/87/80/Pts4max.m3u8
 公視,http://74.91.26.218:82/live/pts.m3u8
+公視,http://hls-pull-tvpublica.speedws.com/live/laQyYN6bpFNEOiwM1uacLEYJs0zLZR34rbw69ivdrfQqrDqndY.flv
 公視,https://www.youtube.com/watch?v=C6gYqSHLRw4
 公視,rtmp://f13h.mine.nu/sat/tv771
 公視,rtmp://f13h.mine.nu:1935/sat/tv771
@@ -274,62 +292,77 @@ TVBS歡樂,http://dreamtv.sylu.net:2082/play/4gtv-4gtv068/index.m3u8?token=lxbjj
 公視台語,https://live.catvod.com/live.php?id=ctv2_twn
 公視台語,https://www.youtube.com/watch?v=6KlRR_DGhmI
 公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
-公視戲劇,http://7.iptv543.com:50007/4gtv-4gtv042/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+公視戲劇,http://106.107.234.186:50007/4gtv-4gtv042/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 公視戲劇,http://dreamtv.sylu.net:2082/play/4gtv-4gtv042/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 天映經典,https://live.catvod.com/live.php?id=ccm01
 天映頻道,https://live.catvod.com/live.php?id=ctv18_twn
 天映頻道,https://live.catvod.com/live.php?id=typd03
-台視,http://7.iptv543.com:50007/li-4gtv-4gtv066/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+台視,http://106.107.234.186:50007/li-4gtv-4gtv066/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 台視,http://74.91.26.218:82/live/ttv.m3u8
+台視,http://live-broadcast-sh-service.vcinema.cn/live/70826e3a9ac317438b58001d453abc91.flv
 台視,https://live.catvod.com/live.php?id=ttv_taiwan
 台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 台視,rtmp://f13h.mine.nu/sat/tv071
 台視,rtmp://f13h.mine.nu:1935/sat/tv071
-台視財經,http://7.iptv543.com:50007/4gtv-4gtv056/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+台視財經,http://106.107.234.186:50007/4gtv-4gtv056/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 台視財經,http://74.91.26.218:82/live/ttvcj.m3u8
-台視新聞,http://7.iptv543.com:50007/li-4gtv-4gtv051/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+台視新聞,http://106.107.234.186:50007/li-4gtv-4gtv051/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 台視新聞,http://74.91.26.218:82/live/ttvnews.m3u8
+台視新聞,http://hls-pull-tvpublica.speedws.com/live/ofFqVir8hEYxZDb6y677FJxn0xr38ITfPfOT6XuHngNXajvBUY.flv
+台視新聞,http://live-broadcast-sh-service.vcinema.cn/live/1a6110d9fee398d7c26c8327de4d593f.flv
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 台視綜合,http://74.91.26.218:82/live/ttvzh.m3u8
+台視綜合,http://hls-pull-tvpublica.speedws.com/live/1fAAda17L41fqlzFEVKaY5nPKNqvN6bpFwKIcIMBeBbKtYRRdqX.flv
+台視綜合,http://live-broadcast-sh-service.vcinema.cn/live/0c28c63b1035f482b6bf6e8c16dc4e99.flv
 台視綜合,https://live.catvod.com/live.php?id=ttvzhonghe
-台灣戲劇,http://7.iptv543.com:50007/litv-xinchuang22/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+台灣戲劇,http://106.107.234.186:50007/litv-xinchuang22/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
+民視,http://106.107.234.186:50007/4gtv-4gtv002/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
+民視,http://106.107.234.186:50007/4gtv-4gtv155/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 民視,http://211.23.114.106:8501/http/59.120.8.187:8081/hls/85/80/Ftv4max.m3u8
 民視,http://211.23.114.106:8501/http/61.67.128.137:8081/hls/66/808/ch24.m3u8
 民視,http://211.23.114.106:8501/http/61.67.128.137:8081/hls/85/80/Ftv4max.m3u8
-民視,http://7.iptv543.com:50007/4gtv-4gtv002/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
-民視,http://7.iptv543.com:50007/4gtv-4gtv155/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 民視,http://74.91.26.218:82/live/ftv.m3u8
 民視,http://dreamtv.sylu.net:2082/play/4gtv-4gtv002/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 民視,http://dreamtv.sylu.net:2082/play/4gtv-4gtv155/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+民視,http://hls-pull-tvpublica.speedws.com/live/ERadomiHhN6bpFVLuQH0M1KoLqTYrGUZBRAAxPowEwb8JN2Yf0.flv
 民視,https://live.catvod.com/live.php?id=ftvhd_taiwan
 民視,rtmp://f13h.mine.nu/sat/tv051
 民視,rtmp://f13h.mine.nu:1935/sat/tv051
-民視台灣,http://7.iptv543.com:50007/4gtv-4gtv001/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+民視台灣,http://106.107.234.186:50007/4gtv-4gtv001/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 民視台灣,http://74.91.26.218:82/live/ftvtw.m3u8
 民視台灣,http://dreamtv.sylu.net:2082/play/4gtv-4gtv001/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+民視台灣,http://hls-pull-tvpublica.speedws.com/live/uiePjrDjCuhbzZN6bpFq140zDu2QnAxXD1vYLjXXQpSHmkQ3eS.flv
+民視台灣,http://live-broadcast-sh-service.vcinema.cn/live/6ff5777f4f78d13396d37ed27c187b95.flv
 民視台灣,https://live.catvod.com/live.php?id=ftvtaiwan_twn
-民視旅遊,http://7.iptv543.com:50007/litv-ftv07/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+民視旅遊,http://106.107.234.186:50007/litv-ftv07/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 民視旅遊,http://dreamtv.sylu.net:2082/play/litv-ftv07/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-民視第一,http://7.iptv543.com:50007/4gtv-4gtv003/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+民視第一,http://106.107.234.186:50007/4gtv-4gtv003/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 民視第一,http://74.91.26.218:82/live/ftvdy.m3u8
 民視第一,http://dreamtv.sylu.net:2082/play/4gtv-4gtv003/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-民視新聞,http://7.iptv543.com:50007/litv-ftv13/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+民視第一,http://hls-pull-tvpublica.speedws.com/live/gbrgwtSDIlHtan4wLlN6bpFb9xaa2EWJKZ8a7RkxQq9rasPuXa.flv
+民視新聞,http://106.107.234.186:50007/litv-ftv13/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 民視新聞,http://74.91.26.218:82/live/ftvnews.m3u8
 民視新聞,http://dreamtv.sylu.net:2082/play/litv-ftv13/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+民視新聞,http://hls-pull-tvpublica.speedws.com/live/5CkUiYhpTaUWi38ITfVPulg2rBioJ6XgbbmxF2hWNQyygV2U12.flv
+民視新聞,http://live-broadcast-sh-service.vcinema.cn/live/3d84dc437578ee710deb1d58bd11468c.flv
 民視新聞,https://live.catvod.com/live.php?id=ftvnew_taiwan
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
-民視綜藝,http://7.iptv543.com:50007/4gtv-4gtv004/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+民視綜藝,http://106.107.234.186:50007/4gtv-4gtv004/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 民視綜藝,http://dreamtv.sylu.net:2082/play/4gtv-4gtv004/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-民視影劇,http://7.iptv543.com:50007/litv-ftv09/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+民視綜藝,http://hls-pull-tvpublica.speedws.com/live/BN6bpFwPYRIqqXXJgXWP1gjAmfzcnR7j1Esvo9FdVssKd8VgDS.flv?
+民視綜藝,http://live-broadcast-sh-service.vcinema.cn/live/ae40729f018b0998b9d6811f8b708231.flv
+民視影劇,http://106.107.234.186:50007/litv-ftv09/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 民視影劇,http://dreamtv.sylu.net:2082/play/litv-ftv09/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-全球財經,http://7.iptv543.com:50007/4gtv-live060/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+民視影劇,http://hls-pull-tvpublica.speedws.com/live/z0Vp6Rj91d9fVMBBepN5tL45yIvw8N6bpFOTgHyml5y7Sy7uhf.flv
+民視影劇,http://live-broadcast-sh-service.vcinema.cn/live/46907ea43e48a46cc7f12a33d16e30d1.flv
+全球財經,http://106.107.234.186:50007/4gtv-live060/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 全球財經,http://dreamtv.sylu.net:2082/play/4gtv-live060/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+好消息,http://106.107.234.186:50007/litv-ftv16/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 好消息,http://211.23.114.106:9308/http/59.120.8.187:8081/hls/74/816/ch53.m3u8
 好消息,http://211.23.114.106:9308/http/61.67.128.137:8081/hls/74/816/ch53.m3u8
 好消息,http://61.221.81.93:8547/http/192.168.1.10:8088/hls/74/816/ch53.m3u8
-好消息,http://7.iptv543.com:50007/litv-ftv16/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 好消息,http://dreamtv.sylu.net:2082/play/litv-ftv16/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-好消息2台,http://7.iptv543.com:50007/litv-ftv17/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+好消息2台,http://106.107.234.186:50007/litv-ftv17/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 好消息2台,http://dreamtv.sylu.net:2082/play/litv-ftv17/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 好消息2台,https://live.catvod.com/live.php?id=good2_twn
 好萊塢電影,http://211.23.114.106:9353/http/59.120.8.187:8081/hls/74/816/ch55.m3u8
@@ -339,15 +372,16 @@ TVBS歡樂,http://dreamtv.sylu.net:2082/play/4gtv-4gtv068/index.m3u8?token=lxbjj
 年代MUCH,http://211.23.114.106:9328/http/59.120.8.187:8081/hls/72/814/ch45.m3u8
 年代MUCH,http://211.23.114.106:9328/http/61.67.128.137:8081/hls/72/814/ch45.m3u8
 年代MUCH,http://61.221.81.93:8570/http/192.168.1.10:8088/hls/72/814/ch45.m3u8
+年代MUCH,http://hls-pull-tvpublica.speedws.com/live/kik9tNVN6bpFMDD687bFX3vtLMD4Lwg69y94g8XKH40P1BOa5U.flv
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞,http://61.221.81.93:8578/http/192.168.1.10:8088/hls/67/809/ch27.m3u8
-車迷TV,http://7.iptv543.com:50007/4gtv-live201/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+車迷TV,http://106.107.234.186:50007/4gtv-live201/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 車迷TV,http://dreamtv.sylu.net:2082/play/4gtv-live201/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+亞洲旅遊,http://106.107.234.186:50007/4gtv-4gtv076/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 亞洲旅遊,http://61.221.81.93:8553/http/192.168.1.10:8088/hls/76/818/ch61.m3u8
-亞洲旅遊,http://7.iptv543.com:50007/4gtv-4gtv076/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 亞洲旅遊,http://dreamtv.sylu.net:2082/play/4gtv-4gtv076/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 亞洲旅遊,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=false
-幸福空間居家,http://7.iptv543.com:50007/4gtv-live206/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+幸福空間居家,http://106.107.234.186:50007/4gtv-live206/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 幸福空間居家,http://dreamtv.sylu.net:2082/play/4gtv-live206/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 東風衛視,http://211.23.114.106:9327/http/59.120.8.187:8081/hls/68/810/ch31.m3u8
 東風衛視,http://211.23.114.106:9327/http/61.67.128.137:8081/hls/68/810/ch31.m3u8
@@ -359,148 +393,194 @@ TVBS歡樂,http://dreamtv.sylu.net:2082/play/4gtv-4gtv068/index.m3u8?token=lxbjj
 東森幼幼,https://live.catvod.com/live.php?id=yoyo_twn
 東森洋片,http://52xinghe.top/smmmt.php?id=ettvwestern&h=52xinghe.top&p=7788
 東森洋片,https://live.catvod.com/live.php?id=ettvwestern
+東森美洲衛視,http://hls-pull-tvpublica.speedws.com/live/GDGMQBLKWMPhyKJYSPPR6dnb2lS3FvykpFuj8AZf19M3vf8Fjx.flv
+東森財經,http://live-broadcast-sh-service.vcinema.cn/live/a9b1913310769f192ec60352f042d812.flv
 東森財經股市,https://www.youtube.com/watch?v=AEBeWMM1atA
+東森財經新聞,http://106.107.234.186:50007/4gtv-4gtv153/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 東森財經新聞,http://61.221.81.93:8590/http/192.168.1.10:8088/hls/63/805/ch11.m3u8
-東森財經新聞,http://7.iptv543.com:50007/4gtv-4gtv153/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 東森財經新聞,http://dreamtv.sylu.net:2082/play/4gtv-4gtv153/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 東森財經新聞,https://live.catvod.com/live.php?id=ettvcaijing_twn
 東森財經新聞,https://www.youtube.com/watch?v=1I2iq41Akmo
 東森超視,http://211.23.114.106:9381/http/59.120.8.187:8081/hls/64/806/ch14.m3u8
 東森超視,http://211.23.114.106:9381/http/61.67.128.137:8081/hls/64/806/ch14.m3u8
 東森超視,http://61.221.81.93:8566/http/192.168.1.10:8088/hls/64/806/ch14.m3u8
+東森超視,http://hls-pull-tvpublica.speedws.com/live/io29sqUSk2GJcNDRp7qdp9SmDDNdQHFqAA7W3vf8FW49U7oWxO.flv
 東森超視,rtmp://f13h.mine.nu/sat/tv331
 東森超視,rtmp://f13h.mine.nu:1935:1935/sat/tv331
 東森超視美洲,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
 東森超視美洲,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+東森超視美洲,http://hls-pull-tvpublica.speedws.com/live/WeC4J9IknCDkTgs7OTb79e9ZfsALZEzGPyj7VThduG3vf8FXGl.flv
+東森新聞,http://106.107.234.186:50007/4gtv-4gtv152/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 東森新聞,http://61.221.81.93:8579/http/192.168.1.10:8088/hls/63/805/ch10.m3u8
-東森新聞,http://7.iptv543.com:50007/4gtv-4gtv152/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 東森新聞,http://dreamtv.sylu.net:2082/play/4gtv-4gtv152/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+東森新聞,http://hls-pull-tvpublica.speedws.com/live/IfhEdN30gjBbS38ITfSSKGFHHl6JFBwhgtYpQxoGIKytCfl1hl.flv
+東森新聞,http://live-broadcast-sh-service.vcinema.cn/live/c4f096524f3b8c2da17f9201cb32e266.flv
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
+東森電影,http://hls-pull-tvpublica.speedws.com/live/bCfUAGCL9ukBOGb6dOi9TN6bpF9yKesDJWcvlAgBMV6uv722A6.flv
 東森綜合,http://211.23.114.106:8535/http/59.120.8.187:8081/hls/63/805/ch12.m3u8
 東森綜合,http://211.23.114.106:8535/http/61.67.128.137:8081/hls/63/805/ch12.m3u8
+東森綜合,http://hls-pull-tvpublica.speedws.com/live/o93jqjfiqGMSXna1CKOrut7IAV5k4qjlN6bpF8XS6pBxUgLJDj.flv
 東森綜合2台,https://www.youtube.com/watch?v=cimbpAZUjzw
 東森戲劇,http://211.23.114.106:8552/http/59.120.8.187:8081/hls/64/806/ch13.m3u8
 東森戲劇,http://211.23.114.106:8552/http/61.67.128.137:8081/hls/64/806/ch13.m3u8
 東森戲劇,http://61.221.81.93:8574/http/192.168.1.10:8088/hls/64/806/ch13.m3u8
+東森戲劇,http://hls-pull-tvpublica.speedws.com/live/UZne9SqWr0qY0g17N3wvg4wAZPxotnT1VFuckYouwlhWyltgiA2E.flv
 東森戲劇,https://live.catvod.com/live.php?id=ettvdrama
 東森購物一台,http://dreamtv.sylu.net:2082/play/4gtv-live047/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 東森購物二台,http://dreamtv.sylu.net:2082/play/4gtv-live046/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 東森購物三台,http://dreamtv.sylu.net:2082/play/4gtv-live048/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 東森購物五台,http://dreamtv.sylu.net:2082/play/4gtv-live049/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-采昌影劇,http://7.iptv543.com:50007/4gtv-4gtv049/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+采昌影劇,http://106.107.234.186:50007/4gtv-4gtv049/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 采昌影劇,http://dreamtv.sylu.net:2082/play/4gtv-4gtv049/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-金光布袋戲,http://7.iptv543.com:50007/4gtv-live144/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+金光布袋戲,http://106.107.234.186:50007/4gtv-live144/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 金光布袋戲,http://dreamtv.sylu.net:2082/play/4gtv-live144/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 非凡財經,https://www.youtube.com/watch?v=eA6Aczd3FZM
+非凡商業,http://106.107.234.186:50007/4gtv-4gtv048/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 非凡商業,http://211.23.114.106:8511/http/59.120.8.187:8081/hls/74/816/ch56.m3u8
 非凡商業,http://211.23.114.106:8511/http/61.67.128.137:8081/hls/74/816/ch56.m3u8
 非凡商業,http://61.221.81.93:8589/http/192.168.1.10:8088/hls/74/816/ch56.m3u8
-非凡商業,http://7.iptv543.com:50007/4gtv-4gtv048/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+非凡新聞,http://106.107.234.186:50007/4gtv-4gtv010/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 非凡新聞,http://61.221.81.93:8586/http/192.168.1.10:8088/hls/75/817/ch57.m3u8
-非凡新聞,http://7.iptv543.com:50007/4gtv-4gtv010/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 非凡新聞,https://live.catvod.com/live.php?id=feifannews_twn
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,rtmp://f13h.mine.nu:1935/sat/tv581
-客家電視,http://7.iptv543.com:50007/4gtv-4gtv043/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+客家電視,http://106.107.234.186:50007/4gtv-4gtv043/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 客家電視,http://dreamtv.sylu.net:2082/play/4gtv-4gtv043/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 美亞電影,https://live.catvod.com/live.php?id=meiyamovie_twn
 倪珍英語新聞,https://www.youtube.com/watch?v=HSImh9Pz_44
 倪珍報氣象,https://www.youtube.com/watch?v=Tf3mktyg6bU
 倪珍播新聞,https://www.youtube.com/watch?v=YBgQRpZqeug
-原住民族電視,http://7.iptv543.com:50007/4gtv-live014/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+原住民族電視,http://106.107.234.186:50007/4gtv-live014/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 原住民族電視,http://dreamtv.sylu.net:2082/play/4gtv-live014/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-時尚運動X,http://7.iptv543.com:50007/4gtv-4gtv014/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+時尚運動X,http://106.107.234.186:50007/4gtv-4gtv014/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 時尚運動X,http://dreamtv.sylu.net:2082/play/4gtv-4gtv014/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 動物星球,http://211.23.114.106:9312/http/59.120.8.187:8081/hls/70/812/ch37.m3u8
 動物星球,http://211.23.114.106:9312/http/61.67.128.137:8081/hls/70/812/ch37.m3u8
 動物星球,http://61.221.81.93:8554/http/192.168.1.10:8088/hls/70/812/ch37.m3u8
-國會頻道1,http://7.iptv543.com:50007/4gtv-4gtv084/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+動物星球,https://live-broadcast-sh-service.vcinema.cn/live/035602b81c07817b7033833d855cfc0c.flv
+國會頻道1,http://106.107.234.186:50007/4gtv-4gtv084/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 國會頻道1,http://dreamtv.sylu.net:2082/play/4gtv-4gtv084/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-國會頻道2,http://7.iptv543.com:50007/4gtv-4gtv085/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+國會頻道2,http://106.107.234.186:50007/4gtv-4gtv085/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 國會頻道2,http://dreamtv.sylu.net:2082/play/4gtv-4gtv085/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 國興衛視,http://61.221.81.93:8588/http/192.168.1.10:8088/hls/64/806/ch15.m3u8
-第1商業,http://7.iptv543.com:50007/4gtv-4gtv104/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
-博斯高球I,http://7.iptv543.com:50007/litv-xinchuang05/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
-博斯高球II,http://7.iptv543.com:50007/litv-xinchuang06/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+第1商業,http://106.107.234.186:50007/4gtv-4gtv104/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
+博斯高球I,http://106.107.234.186:50007/litv-xinchuang05/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
+博斯高球I,https://live-broadcast-sh-service.vcinema.cn/live/ab75656e5ad589e7ecbb33d61df63e79.flv
+博斯高球II,http://106.107.234.186:50007/litv-xinchuang06/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
+博斯高球II,http://hls-pull-tvpublica.speedws.com/live/6435fe7a77afcfd5ed62a993cda36c4f.flv
 博斯高球II,https://live.catvod.com/live.php?id=bosigolf2_twn
-博斯無限,http://7.iptv543.com:50007/litv-xinchuang10/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+博斯無限,http://106.107.234.186:50007/litv-xinchuang10/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 博斯無限,https://live.catvod.com/live.php?id=bosiunlimited_twn
-博斯無限II,http://7.iptv543.com:50007/litv-xinchuang13/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
-博斯運動I,http://7.iptv543.com:50007/litv-xinchuang07/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+博斯無限,https://live-broadcast-sh-service.vcinema.cn/live/89b2191e94d1408f184256b1549f33b6.flv
+博斯無限II,http://106.107.234.186:50007/litv-xinchuang13/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
+博斯無限II,https://live-broadcast-sh-service.vcinema.cn/live/3bf74bc6a97e279a73c5efccb4cdcc3a.flv
+博斯運動I,http://106.107.234.186:50007/litv-xinchuang07/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 博斯運動I,https://live.catvod.com/live.php?id=bosisport1_twn
-博斯運動II,http://7.iptv543.com:50007/litv-xinchuang08/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+博斯運動I,https://live-broadcast-sh-service.vcinema.cn/live/ea65f36849a08f261ba9c06bd9d2aabe.flv
+博斯運動II,http://106.107.234.186:50007/litv-xinchuang08/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
+博斯運動II,http://hls-pull-tvpublica.speedws.com/live/e4744c106a13aad7681df19d65f3480c.flv
 博斯運動II,https://live.catvod.com/live.php?id=bosisport2_twn
-博斯網球,http://7.iptv543.com:50007/litv-xinchuang09/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+博斯網球,http://106.107.234.186:50007/litv-xinchuang09/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 博斯網球,https://live.catvod.com/live.php?id=bositennis_twn
-博斯魅力,http://7.iptv543.com:50007/litv-xinchuang04/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
-壹新聞,http://61.221.81.93:8580/http/192.168.1.10:8088/hls/66/808/ch24.m3u8
+博斯網球,https://live-broadcast-sh-service.vcinema.cn/live/988aeaa516adf9f632137ebbc6e4e36d.flv
+博斯魅力,http://106.107.234.186:50007/litv-xinchuang04/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 壹新聞,http://211.23.114.106:8545/http/59.120.8.187:8081/hls/66/808/ch024.m3u8
 壹新聞,http://211.23.114.106:8545/http/61.67.128.137:8081/hls/66/808/ch024.m3u8
 壹新聞,http://52xinghe.top/smmmt.php?id=eltasport_twn&h=52xinghe.top&p=7788
-壹新聞,http://tw.護法.cloudns.ch:21096/mk.php?id=live1242
-智林體育,http://7.iptv543.com:50007/4gtv-4gtv101/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+壹新聞,http://61.221.81.93:8580/http/192.168.1.10:8088/hls/66/808/ch24.m3u8
+智林體育,http://106.107.234.186:50007/4gtv-4gtv101/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 智林體育,http://dreamtv.sylu.net:2082/play/4gtv-4gtv101/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+華視,http://106.107.234.186:50007/4gtv-4gtv041/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 華視,http://211.23.114.106:8504/http/59.120.8.187:8081/hls/89/80/Cts4max.m3u8
 華視,http://211.23.114.106:8504/http/61.67.128.137:8081/hls/89/80/Cts4max.m3u8
-華視,http://7.iptv543.com:50007/4gtv-4gtv041/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 華視,http://74.91.26.218:82/live/cts.m3u8
 華視,http://dreamtv.sylu.net:2082/play/4gtv-4gtv041/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+華視,http://hls-pull-tvpublica.speedws.com/live/pIN6bpF6geqWLAzPjvY5TD8d8eGRkdFBAZn8IfdKPAA57savCh.flv
+華視,http://live-broadcast-sh-service.vcinema.cn/live/35e9bd8dd44de2946e85553632c98293.flv
 華視,https://live.catvod.com/live.php?id=ctshd_twn
 華視,rtmp://f13h.mine.nu/sat/tv111
 華視,rtmp://f13h.mine.nu:1935/sat/tv111
 華視教育體育文化,http://74.91.26.218:82/live/ctsjy.m3u8
-華視新聞,http://7.iptv543.com:50007/4gtv-4gtv052/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+華視新聞,http://106.107.234.186:50007/4gtv-4gtv052/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 華視新聞,http://74.91.26.218:82/live/ctsnews.m3u8
 華視新聞,http://dreamtv.sylu.net:2082/play/4gtv-4gtv052/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+華視新聞,http://live-broadcast-sh-service.vcinema.cn/live/3e35da36aa474512d3abd7a34aabd93d.flv
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-視納華仁紀實,http://7.iptv543.com:50007/4gtv-4gtv013/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+華藝中文,http://live-broadcast-sh-service.vcinema.cn/live/5e6fe12e84d3f6c2ba7f7c55c29cc549.flv
+視納華仁紀實,http://106.107.234.186:50007/4gtv-4gtv013/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 視納華仁紀實,http://dreamtv.sylu.net:2082/play/4gtv-4gtv013/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-愛爾達生活旅遊,http://7.iptv543.com:50007/4gtv-live120/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+愛爾達日韓,http://live-broadcast-sh-service.vcinema.cn/live/bf320e8fc9eb7881c8b8827f0a7d4060.flv
+愛爾達生活旅遊,http://106.107.234.186:50007/4gtv-live120/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 愛爾達生活旅遊,http://dreamtv.sylu.net:2082/play/4gtv-live120/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-愛爾達娛樂,http://7.iptv543.com:50007/4gtv-4gtv070/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+愛爾達娛樂,http://106.107.234.186:50007/4gtv-4gtv070/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
+愛爾達娛樂,http://hls-pull-tvpublica.speedws.com/live/Pw7zCMuu4sMj1FUPpGXtZtU9g9WN38ITfMmPzTvNfnklwmiealu.flv
+愛爾達娛樂,http://live-broadcast-sh-service.vcinema.cn/live/53a6d6b37569bfb55fa3b3b40b55c944.flv
+愛爾達綜合,http://live-broadcast-sh-service.vcinema.cn/live/0695685f85e15767f17afd5c6c26b47b.flv
 愛爾達綜合,https://live.catvod.com/live.php?id=eltadrama_twn
+愛爾達影劇,http://hls-pull-tvpublica.speedws.com/live/cpiHxSRZyLMifFHImMOWKGa38ITfOxrxNfCnaw31MODVkKcYVC.flv
+愛爾達影劇,http://live-broadcast-sh-service.vcinema.cn/live/8e26304c8fcc771aed34e75df94758d2.flv
 愛爾達體育1,http://52xinghe.top/smmmt.php?id=eltasport_twn&h=52xinghe.top&p=7788
 愛爾達體育1,https://live.catvod.com/live.php?id=eltasport1_twn
+愛爾達體育1,https://live-broadcast-sh-service.vcinema.cn/live/da89fafbad6be59f1fc117c2ae2fcc53.flv
 愛爾達體育2,http://52xinghe.top/smmmt.php?id=eltasport2_twn&h=52xinghe.top&p=7788
+愛爾達體育2,https://live-broadcast-sh-service.vcinema.cn/live/2a731c53a92ef5f7af7a19eae149dc0b.flv
 愛爾達體育3,http://52xinghe.top/smmmt.php?id=eltasport3_twn&h=52xinghe.top&p=7788
 愛爾達體育3,https://live.catvod.com/live.php?id=eltasport3_twn
+愛爾達體育3,https://live-broadcast-sh-service.vcinema.cn/live/e0494de7434d58fd57930b05e16c7155.flv
 愛爾達體育4,http://52xinghe.top/smmmt.php?id=natgeowild_twn&h=52xinghe.top&p=7788
-新唐人亞太,http://7.iptv543.com:50007/4gtv-live050/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+愛爾達體育4,https://live-broadcast-sh-service.vcinema.cn/live/2647e3bd48e92093ed9af078ae945760.flv
+新唐人亞太,http://106.107.234.186:50007/4gtv-live050/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 新唐人亞太,http://dreamtv.sylu.net:2082/play/4gtv-live050/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 新唐人亞太,https://www.youtube.com/watch?v=Bhp_V7H5QoY
-經典卡通,http://7.iptv543.com:50007/4gtv-live022/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+經典卡通,http://106.107.234.186:50007/4gtv-live022/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 經典卡通,http://dreamtv.sylu.net:2082/play/4gtv-live022/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-經典電影,http://7.iptv543.com:50007/4gtv-live021/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+經典電影,http://106.107.234.186:50007/4gtv-live021/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 經典電影,http://dreamtv.sylu.net:2082/play/4gtv-live021/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-達文西頻道,http://7.iptv543.com:50007/4gtv-4gtv018/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+達文西頻道,http://106.107.234.186:50007/4gtv-4gtv018/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 達文西頻道,http://dreamtv.sylu.net:2082/play/4gtv-4gtv018/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-靖天日本,http://7.iptv543.com:50007/4gtv-4gtv047/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+靖天日本,http://106.107.234.186:50007/4gtv-4gtv047/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 靖天日本,http://dreamtv.sylu.net:2082/play/4gtv-4gtv047/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-靖天卡通,http://7.iptv543.com:50007/4gtv-4gtv044/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+靖天日本,http://hls-pull-tvpublica.speedws.com/live/yV76mxajOXBQ8CwsK5ae0nsqzIrjckqwZcuo0vAzwN38ITfiSoH.flv
+靖天日本,http://live-broadcast-sh-service.vcinema.cn/live/74c2a4de7f89ef6baf5b635d6ccdd7ba.flv
+靖天卡通,http://106.107.234.186:50007/4gtv-4gtv044/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 靖天卡通,http://dreamtv.sylu.net:2082/play/4gtv-4gtv044/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+靖天卡通,http://hls-pull-tvpublica.speedws.com/live/ELJJdg38kZsNMgd38ITfJYoQpxVCufGn8d7a2JKDNeIi2RrodC.flv
 靖天卡通,https://live.catvod.com/live.php?id=jingtiancartoon_twn
-靖天育樂,http://7.iptv543.com:50007/4gtv-4gtv062/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+靖天育樂,http://106.107.234.186:50007/4gtv-4gtv062/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 靖天育樂,http://dreamtv.sylu.net:2082/play/4gtv-4gtv062/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-靖天映畫,http://7.iptv543.com:50007/4gtv-4gtv055/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+靖天育樂,http://hls-pull-tvpublica.speedws.com/live/1U38ITfbiQwn9hJ8anEz0Ln71vV3Dcmt28sFlaHp3A3Vcoqo3u.flv
+靖天育樂,http://live-broadcast-sh-service.vcinema.cn/live/6ecef349c4840d1a35d783578f802a7e.flv
+靖天映畫,http://106.107.234.186:50007/4gtv-4gtv055/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 靖天映畫,http://dreamtv.sylu.net:2082/play/4gtv-4gtv055/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-靖天國際,http://7.iptv543.com:50007/4gtv-4gtv063/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+靖天映畫,http://hls-pull-tvpublica.speedws.com/live/Q6ZsUes6wjzdg2Jmr6C0CZSbklY38ITfs4tRGzkmlIIY4TLjS8.flv
+靖天國際,http://106.107.234.186:50007/4gtv-4gtv063/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 靖天國際,http://dreamtv.sylu.net:2082/play/4gtv-4gtv063/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-靖天資訊,http://7.iptv543.com:50007/4gtv-4gtv065/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+靖天國際,http://hls-pull-tvpublica.speedws.com/live/jWVnPsPfyasIv6zMeG9whBQowWO2MfFmqkN38ITf85kirul4nI.flv
+靖天國際,http://live-broadcast-sh-service.vcinema.cn/live/27f8dee789528d8dc8eae66c17efbe52.flv
+靖天資訊,http://106.107.234.186:50007/4gtv-4gtv065/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 靖天資訊,http://dreamtv.sylu.net:2082/play/4gtv-4gtv065/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-靖天電影,http://7.iptv543.com:50007/4gtv-4gtv061/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+靖天資訊,http://hls-pull-tvpublica.speedws.com/live/M9HH4LMzEivoRcbYFbWda0EmqV8Ngdy4Q0Rd4yBZ38ITfLYs89.flv
+靖天電影,http://106.107.234.186:50007/4gtv-4gtv061/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 靖天電影,http://dreamtv.sylu.net:2082/play/4gtv-4gtv061/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-靖天綜合,http://7.iptv543.com:50007/4gtv-4gtv046/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+靖天電影,http://hls-pull-tvpublica.speedws.com/live/GXPI9p38ITfUOUD57kT4TKIwvg42mMQvSI7vZM0WIH8WcBfUHU.flv
+靖天綜合,http://106.107.234.186:50007/4gtv-4gtv046/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 靖天綜合,http://dreamtv.sylu.net:2082/play/4gtv-4gtv046/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-靖天戲劇,http://7.iptv543.com:50007/4gtv-4gtv058/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+靖天綜合,http://hls-pull-tvpublica.speedws.com/live/8sPQzSKo1MKGpwvQt1wg4BZ6quRB9d238ITf0fYy6dRCL33mjy.flv
+靖天綜合,http://live-broadcast-sh-service.vcinema.cn/live/5ddd89504995934961f95722f4ac2022.flv
+靖天戲劇,http://106.107.234.186:50007/4gtv-4gtv058/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 靖天戲劇,http://dreamtv.sylu.net:2082/play/4gtv-4gtv058/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-靖天歡樂,http://7.iptv543.com:50007/4gtv-4gtv054/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+靖天戲劇,http://hls-pull-tvpublica.speedws.com/live/SOru0lI38ITf5R2IF50j1ndZIOAdOhFDjv49Gx6tE2azjHwHx0.flv
+靖天歡樂,http://106.107.234.186:50007/4gtv-4gtv054/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 靖天歡樂,http://dreamtv.sylu.net:2082/play/4gtv-4gtv054/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-靖洋卡通,http://7.iptv543.com:50007/4gtv-4gtv057/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+靖天歡樂,http://hls-pull-tvpublica.speedws.com/live/Iqm0r38ITfsLIjOUDJtexleqCjVWkXKslbL2zE6mEpafciOWYG.flv
+靖洋卡通,http://106.107.234.186:50007/4gtv-4gtv057/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 靖洋卡通,http://dreamtv.sylu.net:2082/play/4gtv-4gtv057/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-靖洋戲劇,http://7.iptv543.com:50007/4gtv-4gtv045/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+靖洋卡通,http://hls-pull-tvpublica.speedws.com/live/eKcs6YPGBjqjBppchRyiANWvEq5nIm7ZNeFVtiTMN38ITfoLeCu.flv
+靖洋戲劇,http://106.107.234.186:50007/4gtv-4gtv045/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 靖洋戲劇,http://dreamtv.sylu.net:2082/play/4gtv-4gtv045/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+靖洋戲劇,http://hls-pull-tvpublica.speedws.com/live/kzhROyIqAycjN38ITfFQLOuapdHlFHHyrTenKIiwObxuYQCNevM.flv
 滾動力 Rollor,http://dreamtv.sylu.net:2082/play/4gtv-live012/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-精選動漫台,http://7.iptv543.com:50007/4gtv-live024/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+精選動漫台,http://106.107.234.186:50007/4gtv-live024/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 精選動漫台,http://dreamtv.sylu.net:2082/play/4gtv-live024/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 鳳凰資訊,http://211.23.114.106:8548/http/59.120.8.187:8078/hls/20/80/phoenixif.m3u8
 鳳凰資訊,http://211.23.114.106:8548/http/61.67.128.137:8078/hls/20/80/phoenixif.m3u8
@@ -509,67 +589,81 @@ TVBS歡樂,http://dreamtv.sylu.net:2082/play/4gtv-4gtv068/index.m3u8?token=lxbjj
 鳳凰衛視,http://211.23.114.106:8549/http/61.67.128.137:8078/hls/21/80/phoenixch.m3u8
 鳳凰衛視,https://live.catvod.com/live.php?id=phoenixtv_hd
 鳳凰衛視,https://www.youtube.com/watch?v=fN9uYWCjQaw
-影迷紀實,http://7.iptv543.com:50007/litv-ftv15/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+影迷紀實,http://106.107.234.186:50007/litv-ftv15/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 影迷紀實,http://dreamtv.sylu.net:2082/play/litv-ftv15/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-影迷數位電影,http://7.iptv543.com:50007/4gtv-4gtv011/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+影迷數位電影,http://106.107.234.186:50007/4gtv-4gtv011/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 影迷數位電影,http://dreamtv.sylu.net:2082/play/4gtv-4gtv011/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 緯來日本,http://211.23.114.106:9336/http/59.120.8.187:8081/hls/69/811/ch34.m3u8
 緯來日本,http://211.23.114.106:9336/http/61.67.128.137:8081/hls/69/811/ch34.m3u8
+緯來日本,http://hls-pull-tvpublica.speedws.com/live/9GvTU2uF7ojoSqF9RpFuckYouIUjGIIIXBjri1pSLh3TIjbNAMLo.flv
 緯來育樂,http://211.23.114.106:8513/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
 緯來育樂,http://211.23.114.106:8513/http/61.67.128.137:8081/hls/68/810/ch30.m3u8
+緯來育樂,http://hls-pull-tvpublica.speedws.com/live/wRhestYKs5ugA88yFuckYouqBrhKrUhJ0NYuUehoshcJ2stllrcB.flv
 緯來育樂,https://live.catvod.com/live.php?id=videolandmax
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
 緯來電影,http://211.23.114.106:9354/http/59.120.8.187:8081/hls/69/811/ch35.m3u8
 緯來電影,http://211.23.114.106:9354/http/61.67.128.137:8081/hls/69/811/ch35.m3u8
 緯來電影,http://61.221.81.93:8592/http/192.168.1.10:8088/hls/69/811/ch35.m3u8
+緯來電影,http://hls-pull-tvpublica.speedws.com/live/LIjQbqWr0oCfwR6SjWMVXyUh5m1qFuckYouRFprvbBloK6NfqVBD.flv
 緯來電影,https://live.catvod.com/live.php?id=videolandmovie
 緯來綜合,http://211.23.114.106:8536/http/59.120.8.187:8081/hls/68/810/ch32.m3u8
 緯來綜合,http://211.23.114.106:8536/http/61.67.128.137:8081/hls/68/810/ch32.m3u8
 緯來綜合,http://61.221.81.93:8557/http/192.168.1.10:8088/hls/68/810/ch32.m3u8
+緯來綜合,http://hls-pull-tvpublica.speedws.com/live/WlC9hX5z83gmgJVCBAAcmN3kbPGTDaFQFuckYouzs5tH3BHkVooY.flv
 緯來綜合,https://live.catvod.com/live.php?id=videolandzonghe
 緯來戲劇,http://211.23.114.106:9332/http/59.120.8.187:8081/hls/69/811/ch33.m3u8
 緯來戲劇,http://211.23.114.106:9332/http/61.67.128.137:8081/hls/69/811/ch33.m3u8
 緯來戲劇,http://61.221.81.93:8577/http/192.168.1.10:8088/hls/69/811/ch33.m3u8
 緯來體育,http://211.23.114.106:8528/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
 緯來體育,http://211.23.114.106:8528/http/61.67.128.137:8081/hls/67/809/ch28.m3u8
+緯來體育,https://pull-bestpay-cdn.shengwang.cn/live/zPTvQDe4mqG04Fwt9I8IekyyEAx09lmBJngA83j5uAUgA8hffipsz5VlW6cX.flv
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
-豬哥亮歌廳秀,http://7.iptv543.com:50007/4gtv-4gtv006/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+豬哥亮歌廳秀,http://106.107.234.186:50007/4gtv-4gtv006/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 豬哥亮歌廳秀,http://dreamtv.sylu.net:2082/play/4gtv-4gtv006/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-寰宇財經,http://7.iptv543.com:50007/li-4gtv-4gtv158/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+豬哥亮歌廳秀,http://hls-pull-tvpublica.speedws.com/live/vY00rcJR1kvuaciQhC5PTnvuTVCuXFq4HibzXXdl2poM6Oonl9.flv
+寰宇財經,http://106.107.234.186:50007/li-4gtv-4gtv158/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 寰宇財經,https://www.youtube.com/watch?v=7G62ua4RruQ
+寰宇新聞,http://106.107.234.186:50007/litv-xinchuang14/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 寰宇新聞,http://211.23.114.106:8548/http/59.120.8.187:8081/hls/76/818/ch62.m3u8
 寰宇新聞,http://211.23.114.106:8548/http/61.67.128.137:8081/hls/76/818/ch62.m3u8
 寰宇新聞,http://61.221.81.93:8585/http/192.168.1.10:8088/hls/76/818/ch62.m3u8
-寰宇新聞,http://7.iptv543.com:50007/litv-xinchuang14/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 寰宇新聞,http://dreamtv.sylu.net:2082/play/litv-longturn14/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+寰宇新聞,http://hls-pull-tvpublica.speedws.com/live/3cDvCNn38ITfBiEhqihpaWdiHXNv7HnTEMRGcac8hxFeC1F9j6.flv
+寰宇新聞,http://live-broadcast-sh-service.vcinema.cn/live/57cc03aded048718cd1fd6ef10f493fc.flv
 寰宇新聞,https://live.catvod.com/live.php?id=huanyuxinwen_twn
 寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
-寰宇新聞台灣,http://7.iptv543.com:50007/4gtv-4gtv156/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+寰宇新聞台灣,http://106.107.234.186:50007/4gtv-4gtv156/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 寰宇新聞台灣,http://dreamtv.sylu.net:2082/play/4gtv-4gtv156/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+寰宇新聞台灣,http://hls-pull-tvpublica.speedws.com/live/kPx238ITf6L0ZwU3ASjlguHsNdwwRnvIENF5nNnrXPp4hNwoIi.flv
 寰宇新聞台灣,https://www.youtube.com/watch?v=w87VGpgd90U
-歷史頻道,http://7.iptv543.com:50007/4gtv-live026/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+歷史頻道,http://106.107.234.186:50007/4gtv-live026/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 歷史頻道,http://dreamtv.sylu.net:2082/play/4gtv-live026/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
-龍華日韓,http://7.iptv543.com:50007/litv-xinchuang11/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+龍華日韓,http://106.107.234.186:50007/litv-xinchuang11/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 龍華日韓,https://live.catvod.com/live.php?id=lhrh01
-龍華卡通,http://7.iptv543.com:50007/litv-xinchuang01/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
-龍華洋片,http://7.iptv543.com:50007/litv-xinchuang02/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
-龍華偶像,http://7.iptv543.com:50007/litv-xinchuang12/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+龍華卡通,http://106.107.234.186:50007/litv-xinchuang01/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
+龍華洋片,http://106.107.234.186:50007/litv-xinchuang02/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
+龍華偶像,http://106.107.234.186:50007/litv-xinchuang12/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
+龍華偶像,http://hls-pull-tvpublica.speedws.com/live/3Z4ST0baDZpdWjO3erCd38ITfOaaRIZECvIA3xv91FcwgYQx5r.flv
 龍華偶像,https://live.catvod.com/live.php?id=lhox01
-龍華經典,http://7.iptv543.com:50007/litv-xinchuang21/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
-龍華電影,http://7.iptv543.com:50007/litv-xinchuang03/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+龍華經典,http://106.107.234.186:50007/litv-xinchuang21/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
+龍華電影,http://106.107.234.186:50007/litv-xinchuang03/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 龍華電影,https://live.catvod.com/live.php?id=lhdy01
-龍華戲劇,http://7.iptv543.com:50007/litv-xinchuang18/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+龍華戲劇,http://106.107.234.186:50007/litv-xinchuang18/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
+龍華戲劇,http://hls-pull-tvpublica.speedws.com/live/s38ITfHlDbq5CzKmV65TJbMJXmdXtvlxhfEsAsILBzDpGTkvMU.flv
 龍華戲劇,https://live.catvod.com/live.php?id=lhxj01
 龍華戲劇,https://live.catvod.com/live.php?id=lunghuaxiju_twn
+韓國娛樂,http://106.107.234.186:50007/4gtv-4gtv016/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 韓國娛樂,http://211.23.114.106:8544/http/59.120.8.187:8092/upload/116/KMTV_TS-1111_1.m3u8
 韓國娛樂,http://211.23.114.106:8544/http/61.67.128.137:8092/upload/116/KMTV_TS-1111_1.m3u8
-韓國娛樂,http://7.iptv543.com:50007/4gtv-4gtv016/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 韓國娛樂,http://dreamtv.sylu.net:2082/play/4gtv-4gtv016/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
+韓國娛樂,http://live-broadcast-sh-service.vcinema.cn/live/7629f8d2484bc2d14dcf972d4be0bfb9.flv
+鏡新聞,http://106.107.234.186:50007/4gtv-4gtv075/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 鏡新聞,http://211.23.114.106:8545/http/59.120.8.187:8092/upload/114/MNEWS_TS-1111_1.m3u8
 鏡新聞,http://211.23.114.106:8545/http/61.67.128.137:8092/upload/114/MNEWS_TS-1111_1.m3u8
-鏡新聞,http://7.iptv543.com:50007/4gtv-4gtv075/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
 鏡新聞,http://dreamtv.sylu.net:2082/play/4gtv-4gtv075/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
+
+
 
 
 
@@ -583,32 +677,32 @@ TVBS歡樂,http://dreamtv.sylu.net:2082/play/4gtv-4gtv068/index.m3u8?token=lxbjj
 TVBS News,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TVBS新聞,http://211.23.114.106:8510/http/59.120.8.187:8081/hls/75/817/ch59.m3u8
 TVBS新聞,http://211.23.114.106:8510/http/61.67.128.137:8081/hls/75/817/ch59.m3u8
-TVBS新聞,http://7.iptv543.com:50007/4gtv-4gtv072/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+TVBS新聞,http://106.107.234.186:50007/4gtv-4gtv072/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 TVBS新聞,https://live.catvod.com/live.php?id=tvbs_n
 三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
-三立iNEWS,http://7.iptv543.com:50007/4gtv-live089/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+三立iNEWS,http://106.107.234.186:50007/4gtv-live089/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 三立iNEWS,http://dreamtv.sylu.net:2082/play/4gtv-live089/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 三立iNEWS,https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=iNEWS&sd=1080&proxy=false
 三立新聞,https://www.youtube.com/watch?v=QsGswQvRmtU
 三立新聞,http://61.221.81.93:8584/http/192.168.1.10:8088/hls/65/807/ch18.m3u8
 中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
 中天新聞,http://61.221.81.93:8582/http/192.168.1.10:8088/hls/78/80/ch63max.m3u8
-中天新聞,http://7.iptv543.com:50007/4gtv-4gtv009/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+中天新聞,http://106.107.234.186:50007/4gtv-4gtv009/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 中天新聞,http://dreamtv.sylu.net:2082/play/4gtv-4gtv009/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 中天新聞,https://live.catvod.com/live.php?id=ctiasia_twn
 中天新聞,https://live.catvod.com/live.php?id=ctinews
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
-中視新聞,http://7.iptv543.com:50007/4gtv-4gtv074/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+中視新聞,http://106.107.234.186:50007/4gtv-4gtv074/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 中視新聞,http://74.91.26.218:82/live/ctvnews.m3u8
 中視新聞,http://dreamtv.sylu.net:2082/play/4gtv-4gtv074/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
-台視財經,http://7.iptv543.com:50007/4gtv-4gtv056/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+台視財經,http://106.107.234.186:50007/4gtv-4gtv056/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 台視財經,http://74.91.26.218:82/live/ttvcj.m3u8
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
-台視新聞,http://7.iptv543.com:50007/li-4gtv-4gtv051/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+台視新聞,http://106.107.234.186:50007/li-4gtv-4gtv051/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 台視新聞,http://74.91.26.218:82/live/ttvnews.m3u8
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
-民視新聞,http://7.iptv543.com:50007/litv-ftv13/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+民視新聞,http://106.107.234.186:50007/litv-ftv13/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 民視新聞,http://74.91.26.218:82/live/ftvnews.m3u8
 民視新聞,http://dreamtv.sylu.net:2082/play/litv-ftv13/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 民視新聞,https://live.catvod.com/live.php?id=ftvnew_taiwan
@@ -617,20 +711,20 @@ TVBS新聞,https://live.catvod.com/live.php?id=tvbs_n
 東森財經股市,https://www.youtube.com/watch?v=AEBeWMM1atA
 東森財經新聞,https://www.youtube.com/watch?v=1I2iq41Akmo
 東森財經新聞,http://61.221.81.93:8590/http/192.168.1.10:8088/hls/63/805/ch11.m3u8
-東森財經新聞,http://7.iptv543.com:50007/4gtv-4gtv153/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+東森財經新聞,http://106.107.234.186:50007/4gtv-4gtv153/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 東森財經新聞,http://dreamtv.sylu.net:2082/play/4gtv-4gtv153/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 東森財經新聞,https://live.catvod.com/live.php?id=ettvcaijing_twn
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 東森新聞,http://61.221.81.93:8579/http/192.168.1.10:8088/hls/63/805/ch10.m3u8
-東森新聞,http://7.iptv543.com:50007/4gtv-4gtv152/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+東森新聞,http://106.107.234.186:50007/4gtv-4gtv152/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 東森新聞,http://dreamtv.sylu.net:2082/play/4gtv-4gtv152/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 非凡財經,https://www.youtube.com/watch?v=eA6Aczd3FZM
 非凡商業,http://211.23.114.106:8511/http/59.120.8.187:8081/hls/74/816/ch56.m3u8
 非凡商業,http://211.23.114.106:8511/http/61.67.128.137:8081/hls/74/816/ch56.m3u8
 非凡商業,http://61.221.81.93:8589/http/192.168.1.10:8088/hls/74/816/ch56.m3u8
-非凡商業,http://7.iptv543.com:50007/4gtv-4gtv048/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+非凡商業,http://106.107.234.186:50007/4gtv-4gtv048/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 非凡新聞,http://61.221.81.93:8586/http/192.168.1.10:8088/hls/75/817/ch57.m3u8
-非凡新聞,http://7.iptv543.com:50007/4gtv-4gtv010/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+非凡新聞,http://106.107.234.186:50007/4gtv-4gtv010/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 非凡新聞,https://live.catvod.com/live.php?id=feifannews_twn
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,rtmp://f13h.mine.nu:1935/sat/tv581
@@ -644,25 +738,25 @@ TVBS新聞,https://live.catvod.com/live.php?id=tvbs_n
 壹新聞,http://tw.护法.cloudns.ch:21096/mk.php?id=live1242
 華視教育體育文化,http://74.91.26.218:82/live/ctsjy.m3u8
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-華視新聞,http://7.iptv543.com:50007/4gtv-4gtv052/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+華視新聞,http://106.107.234.186:50007/4gtv-4gtv052/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 華視新聞,http://74.91.26.218:82/live/ctsnews.m3u8
 華視新聞,http://dreamtv.sylu.net:2082/play/4gtv-4gtv052/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 寰宇財經,https://www.youtube.com/watch?v=7G62ua4RruQ
-寰宇財經,http://7.iptv543.com:50007/li-4gtv-4gtv158/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+寰宇財經,http://106.107.234.186:50007/li-4gtv-4gtv158/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
 寰宇新聞,http://211.23.114.106:8548/http/59.120.8.187:8081/hls/76/818/ch62.m3u8
 寰宇新聞,http://211.23.114.106:8548/http/61.67.128.137:8081/hls/76/818/ch62.m3u8
 寰宇新聞,http://61.221.81.93:8585/http/192.168.1.10:8088/hls/76/818/ch62.m3u8
-寰宇新聞,http://7.iptv543.com:50007/litv-xinchuang14/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+寰宇新聞,http://106.107.234.186:50007/litv-xinchuang14/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 寰宇新聞,http://dreamtv.sylu.net:2082/play/litv-longturn14/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 寰宇新聞,https://live.catvod.com/live.php?id=huanyuxinwen_twn
 寰宇新聞台灣,https://www.youtube.com/watch?v=w87VGpgd90U
-寰宇新聞台灣,http://7.iptv543.com:50007/4gtv-4gtv156/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+寰宇新聞台灣,http://106.107.234.186:50007/4gtv-4gtv156/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 寰宇新聞台灣,http://dreamtv.sylu.net:2082/play/4gtv-4gtv156/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 鏡新聞,http://211.23.114.106:8545/http/59.120.8.187:8092/upload/114/MNEWS_TS-1111_1.m3u8
 鏡新聞,http://211.23.114.106:8545/http/61.67.128.137:8092/upload/114/MNEWS_TS-1111_1.m3u8
-鏡新聞,http://7.iptv543.com:50007/4gtv-4gtv075/index.m3u8?token=kTbOOJTb0TSnmN600ULhXpIlRzWpmeuTNWIHjk2DQtaZm33FiYPlZOXRQDQvqBpl
+鏡新聞,http://106.107.234.186:50007/4gtv-4gtv075/index.m3u8?token=BccuJN0BpdlkORMero22rnGWyr9n7kYa2zSwC5h2BJTv17UMVWxhVFwDiwzQyy1n
 鏡新聞,http://dreamtv.sylu.net:2082/play/4gtv-4gtv075/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 
 
@@ -1261,6 +1355,9 @@ RTI國語,http://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playl
 輕鬆電台,http://stream.rcs.revma.com/k41z6wadu5hvv
 潮流音樂,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
+
+
+
 
 
 
