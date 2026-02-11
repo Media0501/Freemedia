@@ -7,7 +7,7 @@ ua=http/1.1 okhttp/3.8.1 okhttp/3.15 okhttp/4.12.0 Herissmon/2016 judy/5.2.1 Rob
 
 
 
-🚧 0211 check,#genre#
+🚧 0212 check,#genre#
 
 Test Video,https://www.youtube.com/watch?v=HEh2-EwNwoM
 AI倪珍今日新聞,https://www.youtube.com/watch?v=YBgQRpZqeug
@@ -1049,6 +1049,73 @@ TVBS歡樂台,http://106.107.237.222:50007/4gtv-4gtv068/index.m3u8?token=lOYsRlI
 鏡電視新聞台,http://106.107.237.222:50007/4gtv-4gtv075/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 
 
+🍓 一日Smart線上TV,#genre#
+
+
+Arirang,https://smart.dxjc.pp.ua/smart.php?id=arirang_twn&token=tmxk
+AXN Taiwan,https://smart.dxjc.pp.ua/smart.php?id=axn_twn&token=tmxk
+CINEMAX,https://smart.dxjc.pp.ua/smart.php?id=cinemax_twn&token=tmxk
+EYE 戲劇台,https://smart.dxjc.pp.ua/smart.php?id=eyetvxiju_twn&token=tmxk
+HBO_HD,https://smart.dxjc.pp.ua/smart.php?id=hbohd_twn&token=tmxk
+MTV Live,https://smart.dxjc.pp.ua/smart.php?id=mtvhd_twn&token=tmxk
+Smart政論天下,https://smart.dxjc.pp.ua/smart.php?id=eyetvtravel_twn&token=tmxk
+TVBS HD,https://smart.dxjc.pp.ua/smart.php?id=tvbs&token=tmxk
+TVBS 新聞台,https://smart.dxjc.pp.ua/smart.php?id=tvbs_n&token=tmxk
+TVBS 歡樂台,https://smart.dxjc.pp.ua/smart.php?id=tvbshuanle_twn&token=tmxk
+八大第一台,https://smart.dxjc.pp.ua/smart.php?id=badafirst&token=tmxk
+八大綜合台,https://smart.dxjc.pp.ua/smart.php?id=badazhonghe&token=tmxk
+八大戲劇台,https://smart.dxjc.pp.ua/smart.php?id=badadrama&token=tmxk
+三立台灣台,https://smart.dxjc.pp.ua/smart.php?id=sanlitaiwan&token=tmxk
+三立綜合台,https://smart.dxjc.pp.ua/smart.php?id=sanlizhonghe&token=tmxk
+三立戲劇台,https://smart.dxjc.pp.ua/smart.php?id=sanlixiju_twn&token=tmxk
+大愛二台,https://smart.dxjc.pp.ua/smart.php?id=daai2_twn&token=tmxk
+大愛電視,https://smart.dxjc.pp.ua/smart.php?id=daai_twn&token=tmxk
+中天亞洲,https://smart.dxjc.pp.ua/smart.php?id=ctiasia_twn&token=tmxk
+中天娛樂,https://smart.dxjc.pp.ua/smart.php?id=ctient&token=tmxk
+中天新聞,https://smart.dxjc.pp.ua/smart.php?id=ctinews&token=tmxk
+中天綜合,https://smart.dxjc.pp.ua/smart.php?id=ctizhonghe&token=tmxk
+中視 HD,https://smart.dxjc.pp.ua/smart.php?id=zhongshihd_twn&token=tmxk
+中視新聞,https://smart.dxjc.pp.ua/smart.php?id=zhongshinews_twn&token=tmxk
+公視台語台,https://smart.dxjc.pp.ua/smart.php?id=ctv2_twn&token=tmxk
+台視 HD,https://smart.dxjc.pp.ua/smart.php?id=ttv_taiwan&token=tmxk
+台視綜合,https://smart.dxjc.pp.ua/smart.php?id=ttvzhonghe&token=tmxk
+民視 HD,https://smart.dxjc.pp.ua/smart.php?id=ftvhd_taiwan&token=tmxk
+民視台灣台,https://smart.dxjc.pp.ua/smart.php?id=ftvtaiwan_twn&token=tmxk
+民視新聞台,https://smart.dxjc.pp.ua/smart.php?id=ftvnew_taiwan&token=tmxk
+好消息 2,https://smart.dxjc.pp.ua/smart.php?id=good2_twn&token=tmxk
+好萊塢電影台,https://smart.dxjc.pp.ua/smart.php?id=hollywoodmovies_twn&token=tmxk
+年代新聞,https://smart.dxjc.pp.ua/smart.php?id=niandainews_twn&token=tmxk
+亞洲旅遊台,https://smart.dxjc.pp.ua/smart.php?id=asiatravel_twn&token=tmxk
+東森幼幼台,https://smart.dxjc.pp.ua/smart.php?id=yoyo_twn&token=tmxk
+東森洋片台,https://smart.dxjc.pp.ua/smart.php?id=ettvwestern&token=tmxk
+東森財經新聞台,https://smart.dxjc.pp.ua/smart.php?id=ettvcaijing_twn&token=tmxk
+東森新聞台,https://smart.dxjc.pp.ua/smart.php?id=ettvnews&token=tmxk
+東森電影台,https://smart.dxjc.pp.ua/smart.php?id=ettvmovie&token=tmxk
+東森綜合台,https://smart.dxjc.pp.ua/smart.php?id=ettvzhonghe&token=tmxk
+東森戲劇台,https://smart.dxjc.pp.ua/smart.php?id=ettvdrama&token=tmxk
+非凡新聞,https://smart.dxjc.pp.ua/smart.php?id=feifannews_twn&token=tmxk
+美亞電影,https://smart.dxjc.pp.ua/smart.php?id=meiyamovie_twn&token=tmxk
+博斯高球二台,https://smart.dxjc.pp.ua/smart.php?id=bosigolf2_twn&token=tmxk
+博斯無限台,https://smart.dxjc.pp.ua/smart.php?id=bosiunlimited_twn&token=tmxk
+博斯運動一台,https://smart.dxjc.pp.ua/smart.php?id=bosisport1_twn&token=tmxk
+博斯運動二台,https://smart.dxjc.pp.ua/smart.php?id=bosisport2_twn&token=tmxk
+博斯網球臺,https://smart.dxjc.pp.ua/smart.php?id=bositennis_twn&token=tmxk
+華視 HD,https://smart.dxjc.pp.ua/smart.php?id=ctshd_twn&token=tmxk
+華藝綜合,https://smart.dxjc.pp.ua/smart.php?id=weishichinese_twn&token=tmxk
+愛爾達體育2台,https://smart.dxjc.pp.ua/smart.php?id=eltasport2_twn&token=tmxk
+愛爾達體育3台,https://smart.dxjc.pp.ua/smart.php?id=eltasport3_twn&token=tmxk
+靖天卡通,https://smart.dxjc.pp.ua/smart.php?id=jingtiancartoon_twn&token=tmxk
+緯來日本,https://smart.dxjc.pp.ua/smart.php?id=videolandjapan&token=tmxk
+緯來育樂,https://smart.dxjc.pp.ua/smart.php?id=videolandyule&token=tmxk
+緯來電影,https://smart.dxjc.pp.ua/smart.php?id=videolandmovie&token=tmxk
+緯來綜合,https://smart.dxjc.pp.ua/smart.php?id=videolandzonghe&token=tmxk
+緯來體育,https://smart.dxjc.pp.ua/smart.php?id=videolandsport&token=tmxk
+寰宇新聞台,https://smart.dxjc.pp.ua/smart.php?id=huanyuxinwen_twn&token=tmxk
+龍祥時代,https://smart.dxjc.pp.ua/smart.php?id=lungxiangtime_twn&token=tmxk
+龍華偶像,https://smart.dxjc.pp.ua/smart.php?id=lunghuaidol_twn&token=tmxk
+龍華戲劇,https://smart.dxjc.pp.ua/smart.php?id=lunghuaxiju_twn&token=tmxk
+
+
 
 
 
@@ -1603,33 +1670,6 @@ RTI國語,http://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playl
 輕鬆電台,http://stream.rcs.revma.com/k41z6wadu5hvv
 潮流音樂,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
