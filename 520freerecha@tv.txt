@@ -7,7 +7,7 @@ ua=http/1.1 okhttp/3.8.1 okhttp/3.15 okhttp/4.12.0 Herissmon/2016 judy/5.2.1 Rob
 
 
 
-🚧 0219 萬🐴奔騰迎新春,#genre#
+🚧 0222 收心操預備,#genre#
 
 Test Video,https://www.youtube.com/watch?v=HEh2-EwNwoM
 AI倪珍今日新聞,https://www.youtube.com/watch?v=YBgQRpZqeug
@@ -1230,9 +1230,123 @@ TVBS歡樂,http://106.107.234.186:50007/4gtv-4gtv068/index.m3u8?token=C2sImhXY5h
 
 
 
-🍓 一日Smart線上TV,#genre#
+🍓 211酒店源測試,#genre#
 
 
+AMC電影台,http://211.23.95.147:18881/live/69_h265.ts
+AXN,http://211.23.95.147:18881/live/67_h265.ts
+BS日テレ東(東京電視台衛星電視頻道),http://211.23.95.147:18881/live/dtv40_h265.ts
+CCTV-14少兒,http://211.23.95.147:18881/live/dtv28_h265.ts
+CCTV-15音樂,http://211.23.95.147:18881/live/dtv26_h265.ts
+CCTV-4中文國際,http://211.23.95.147:18881/live/dtv34_h265.ts
+CCTV-9紀录,http://211.23.95.147:18881/live/dtv32_h265.ts
+CCTV-娛樂,http://211.23.95.147:18881/live/dtv37_h265.ts
+CGTN,http://211.23.95.147:18881/live/dtv35_h265.ts
+CINEMAX,http://211.23.95.147:18881/live/71_h265.ts
+Cna亚洲新聞,http://211.23.95.147:18881/live/dtv25_h265.ts
+DAZN體育1台,http://211.23.95.147:18881/live/73_h265.ts
+DAZN體育2台,http://211.23.95.147:18881/live/74_h265.ts
+Discovery,http://211.23.95.147:18881/live/19_h265.ts
+HBO,http://211.23.95.147:18881/live/65_h265.ts
+JET綜合台,http://211.23.95.147:18881/live/45_h265.ts
+NHK BS(日本放送協會衛星電視頻道),http://211.23.95.147:18881/live/dtv39_h265.ts
+NHK World Premium(NHK世界收費電視頻道),http://211.23.95.147:18881/live/95_h265.ts
+TLC,http://211.23.95.147:18881/live/21_h265.ts
+TVBS 精采台,http://udinlaw.sytes.net:8000/scripts/4gtv/index.php?id=4gtv-4gtv067
+TVBS 精采台,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv067
+TVBS 精采台,https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv067?set=1&ch=227
+TVBS 精采台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv067
+TVBS 精采台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv067
+TVBS,http://211.23.95.147:18881/live/56_h265.ts
+TVBS新聞台,http://211.23.95.147:18881/live/55_h265.ts
+TVBS歡樂台,http://211.23.95.147:18881/live/42_h265.ts
+人間衛視,http://211.23.95.147:18881/live/dtv24_h265.ts
+人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+八大第1台,http://211.23.95.147:18881/live/27_h265.ts
+八大精彩台,http://udinlaw.sytes.net:8000/scripts/4gtv/index.php?id=4gtv-4gtv034
+八大精彩台,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv034
+八大精彩台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv034
+八大精彩台,p3p://108.181.32.169:28526/65435f63000ba94069331ccd6399041b
+八大精彩台,p3p://167.114.175.6:55331/6223beb7000542db3e9d251558fb45b1
+八大精彩台,p3p://173.208.176.178:31809/6223beb7000542db3e9d251558fb45b1
+八大綜合台,http://211.23.95.147:18881/live/28_h265.ts
+八大戲劇台,http://211.23.95.147:18881/live/41_h265.ts
+三立台灣台,http://211.23.95.147:18881/live/29_h265.ts
+三立都會台,http://211.23.95.147:18881/live/30_h265.ts
+三立新聞台,http://211.23.95.147:18881/live/54_h265.ts
+三立綜合台,https://4gtv.mytvsuper.xyz/?id=169
+大愛電視台,http://211.23.95.147:18881/live/dtv23_h265.ts
+大灣區衛視,http://211.23.95.147:18881/live/dtv42_h265.ts
+中天娛樂台,http://211.23.95.147:18881/live/39_h265.ts
+中天娛樂台,http://61.221.215.25:8800/hls/47/index.m3u8
+中天娛樂台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctient&sp=chaojidianshi
+中天綜合台,http://211.23.95.147:18881/live/36_h265.ts
+中國電影頻道北美版,http://211.23.95.147:18881/live/dtv36_h265.ts
+中視,http://211.23.95.147:18881/live/dtv1_h265.ts
+中視菁采,http://211.23.95.147:18881/live/dtv4_h265.ts
+中視新聞台,http://211.23.95.147:18881/live/dtv2_h265.ts
+中視經典,http://211.23.95.147:18881/live/dtv3_h265.ts
+公視,http://211.23.95.147:18881/live/dtv5_h265.ts
+公視台語台,http://211.23.95.147:18881/live/dtv6_h265.ts
+公視兒少台,http://211.23.95.147:18881/live/dtv11_h265.ts
+台視,http://211.23.95.147:18881/live/dtv14_h265.ts
+台視財經台,http://211.23.95.147:18881/live/dtv16_h265.ts
+台視新聞台,http://211.23.95.147:18881/live/dtv15_h265.ts
+台視綜合台,http://211.23.95.147:18881/live/dtv17_h265.ts
+台灣Plus,http://211.23.95.147:18881/live/dtv21_h265.ts
+民視,http://211.23.95.147:18881/live/dtv7_h265.ts
+民視台灣台,http://211.23.95.147:18881/live/dtv10_h265.ts
+民視第一台,http://211.23.95.147:18881/live/dtv8_h265.ts
+民視新聞台,http://211.23.95.147:18881/live/dtv9_h265.ts
+好萊塢電影台,http://211.23.95.147:18881/live/68_h265.ts
+年代MUCH,http://211.23.95.147:18881/live/38_h265.ts
+年代新聞台,http://211.23.95.147:18881/live/50_h265.ts
+東方衛視國際,http://211.23.95.147:18881/live/dtv38_h265.ts
+東風衛視,http://211.23.95.147:18881/live/37_h265.ts
+東森幼幼台,http://211.23.95.147:18881/live/25_h265.ts
+東森財經新聞台,http://211.23.95.147:18881/live/57_h265.ts
+東森超視台,http://211.23.95.147:18881/live/33_h265.ts
+東森新聞台,http://211.23.95.147:18881/live/51_h265.ts
+東森綜合台,http://211.23.95.147:18881/live/32_h265.ts
+東森戲劇台,http://211.23.95.147:18881/live/40_h265.ts
+金鹰卡通,http://211.23.95.147:18881/live/dtv29_h265.ts
+非凡商業台,http://211.23.95.147:18881/live/89_h265.ts
+非凡新聞台,http://211.23.95.147:18881/live/58_h265.ts
+客家電視台,http://211.23.95.147:18881/live/dtv12_h265.ts
+星空衛視,http://211.23.95.147:18881/live/dtv27_h265.ts
+原住民電視台,http://211.23.95.147:18881/live/dtv13_h265.ts
+浙江國際,http://211.23.95.147:18881/live/dtv44_h265.ts
+海峡衛視,http://211.23.95.147:18881/live/dtv33_h265.ts
+動物星球頻道,http://211.23.95.147:18881/live/22_h265.ts
+國會頻道1台,http://61.58.60.230:9319/live/123.m3u8
+國會頻道2台,http://211.23.95.147:18881/live/dtv22_h265.ts
+國會頻道2台,http://61.58.60.230:9319/live/124.m3u8
+國興衛視,http://211.23.114.106:8523/http/60.251.39.91:8081/hls/64/806/ch15.m3u8
+國興衛視,http://211.23.95.147:18881/live/78_h265.ts
+深圳國際,http://211.23.95.147:18881/live/dtv41_h265.ts
+厦門衛視,http://211.23.95.147:18881/live/dtv43_h265.ts
+壹新聞,http://211.23.95.147:18881/live/49_h265.ts
+壹電影,http://211.23.95.147:18881/live/102_h265.ts
+壹綜合,http://211.23.95.147:18881/live/104_h265.ts
+湖南國際,http://211.23.95.147:18881/live/dtv45_h265.ts
+華視,http://211.23.95.147:18881/live/dtv18_h265.ts
+華視教育體育文化台,http://211.23.95.147:18881/live/dtv19_h265.ts
+華視新聞資訊台,http://211.23.95.147:18881/live/dtv20_h265.ts
+華藝中文台,http://211.23.95.147:18881/live/31_h265.ts
+華藝中文台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=weishichinese_twn&sp=chaojidianshi
+鳳凰衛視中文台,http://211.23.95.147:18881/live/dtv30_h265.ts
+鳳凰衛視資訊台,http://211.23.95.147:18881/live/dtv31_h265.ts
+緯來日本台,http://211.23.95.147:18881/live/77_h265.ts
+緯來育樂台,http://211.23.95.147:18881/live/70_h265.ts
+緯來電影台,http://211.23.95.147:18881/live/63_h265.ts
+緯來精采台,http://61.221.215.25:8800/hls/48/index.m3u8
+緯來綜合台,http://211.23.95.147:18881/live/26_h265.ts
+緯來戲劇台,http://211.23.95.147:18881/live/43_h265.ts
+緯來體育台,http://211.23.95.147:18881/live/72_h265.ts
+龍祥時代,http://50.7.234.10:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
+龍祥時代,http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
+鏡新聞,http://211.23.95.147:18881/live/86_h265.ts
 
 
 
@@ -1717,6 +1831,9 @@ RTI國語,http://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playl
 潮流音樂,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 環宇廣播,http://stream.rcs.revma.com/srn5f9kmwxhvv
 心動音樂電台,https://pulseradiow-hichannel.cdn.hinet.net/live/RA000101/chunklist.m3u8?token=I9YaTWll2es-CQYQgWzSJw&expires=1770998322
+
+
+
 
 
 
