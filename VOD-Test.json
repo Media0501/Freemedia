@@ -216,16 +216,6 @@
 },
 
 {
-"key": "魔都资源",
-"name": "動漫🦉魔都(備)",
-"type": 1,
-"api": "https://caiji.moduapi.cc/api.php/provide/vod",
-"jar": "https://raw.githubusercontent.com/Media0501/VOD-Testing/refs/heads/main/panda1123.jar",
-"searchable": 1,
-"changeable": 1
-},
-
-{
 "key": "csp_xml_ikun",
 "name": "iKun",
 "type": 1,
@@ -860,11 +850,21 @@
 "changeable": 1,
 "categories": ["国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "动漫电影", "里番动漫"]
 },
+ 
+{
+"key": "魔都资源",
+"name": "動漫🦉魔都(備)",
+"type": 1,
+"api": "https://caiji.moduapi.cc/api.php/provide/vod",
+"jar": "https://raw.githubusercontent.com/Media0501/VOD-Testing/refs/heads/main/panda1123.jar",
+"searchable": 1,
+"changeable": 1
+},
+
 
 #結尾防當機
 
 {"key":"csp_Local","name":"📚儲存文件","type":3,"api":"csp_Local","searchable":0,"quickSearch":0,"filterable":1}
-#{"key": "本地","name": "📚本機檔案","type": 3,"api": "csp_Local","searchable": 0,"changeable": 0}
 ],
 
 "ads":["static-mozai.4gtv.tv"],
