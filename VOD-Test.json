@@ -36,18 +36,6 @@
 },
 
 {
-"key": "77ys",
-"name": "77影视",
-"type": 3,
-"jar":"https://tvbox.catvod.com/catvod.jar",
-"api": "csp_XBPQ",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "https://tvbox.catvod.com/js/77ys.json"
-},
-
-{
 "key": "新6V",
 "name": "新6V",
 "type": 3,
@@ -68,18 +56,6 @@
 "quickSearch": 1,
 "filterable": 1,
 "ext": "https://tvbox.catvod.com/js/heihu.json"
-},
-
-{
-"key": "qiyou",
-"name": "奇優",
-"type": 3,
-"api": "csp_XBPQ",
-"jar": "https://tvbox.catvod.com/catvod.jar",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "https://tvbox.catvod.com/js/qiyou.json"
 },
 
 {
@@ -149,28 +125,6 @@
 "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他"}
 },
 
-{
-"key": "feikuai",
-"name": "飛快",
-"type": 3,
-"api": "https://raw.githubusercontent.com/Media0501/VOD-Testing/refs/heads/main/飞快.py",
-"searchable": 1,
-"filterable": 0,
-"changeable": 0
-},
-
-{
-"key": "ling",
-"name": "Ling",
-"type": 3,
-"api": "csp_XBPQ",
-"jar": "https://raw.githubusercontent.com/Media0501/VOD-Testing/refs/heads/main/xyqxbpq.jar",
-"playerType": 2,
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "https://raw.githubusercontent.com/Media0501/VOD-Testing/refs/heads/main/飛快tv.json"
-},
 
 {
 "key": "jieyingshi",
@@ -182,20 +136,6 @@
 "changeable": 0
 },
 
-{
-"key": "csp_Euvod",
-"name": "EU-Vod",
-"type": 3,
-"api": "csp_XBPQ",
-"jar": "https://raw.githubusercontent.com/Media0501/VOD-Testing/refs/heads/main/xyqxbpq.jar",
-"searchable": 1,
-"quickSearch": 1,
-"changeable": 1,
-"filterable": 1,
-"timeout": 60,
-"ext": "https://raw.githubusercontent.com/Media0501/VOD-Testing/refs/heads/main/伊優.json"
-}, 
-  
 {
 "key": "csp_電影先生",
 "name": "電影先生",
@@ -234,24 +174,6 @@
 "ext":"BG6DUQMDRsRW0hbHAYRFwFNSUoESx4PHgAPBksaHRRWXkcFLQEDFwIMCBhEXkBZVVteWx8XHEVIVT8zHlAtMRIyLDszASEtF0sAMj8ONj0BLCofKAo2PCc4ET8TQT0JFjArVzRYRVpEDRRKX1sTPx8LLwkgOCtUQBc1HAUXOC0SSiIoSU9HS1AWFhUuDANUXEYRAAQXFhAVHBYPGwcPC1NJRRUOBQwGABUtGhsWAEVIVRUBAhU4BRZUU0pJWwIYFxkEABcoCAQcAEVMRAcNBUsAEQ4YGh9JCw4VFVNJRQUfFz0YCRgGHxsACEVIVVRHXUcUDxUWBwQAGAEcVkhHVkNVSkcHABUFDwsMSl9bRktEQlVFDw=="
 },
 
-
-{
-"key": "零度",
-"name": "零度",
-"type": 3,
-"api": "csp_AppNox",
-"jar": "https://raw.githubusercontent.com/Media0501/VOD-Testing/refs/heads/main/xiaosa.jar",
-"ext": {
-"url": "http://ld.ldysapp.cn",
-"header": {
-"content-type": "application/json",
-"x-app-signature": "70:DF:B1:2A:AE:C3:E3:73:6E:23:0F:67:B9:3B:C5:63:2D:EA:2A:2C:9E:9D:52:82:1D:3F:3C:3C:B9:10:9E:EE",
-"x-app-package": "com.mjyx.jhxq",
-"x-app-version-code": "36",
-"x-app-version-name": "2.2.6"
-}
-}
-},
 
 
 {
