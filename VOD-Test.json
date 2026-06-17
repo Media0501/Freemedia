@@ -5,11 +5,296 @@
 
 
 "wallpaper": "https://picsum.photos/1920/1080",
-"notice": "🌸 VOD-Test 🌸
+"notice": "🌸 VOD-Test JAR Error 🌸
 最終維護日 : 2026/06/17",
 
 "sites": [
 
+{
+"key": "豆瓣1",
+"name": "豆瓣",
+"type": 3,
+"api": "csp_Douban",
+"jar": "https://raw.githubusercontent.com/Media0501/VOD-Testing/refs/heads/main/pizazz.txt",
+"searchable": 1,
+"changeable": 1,
+"filterable": 1,
+"quickSearch": 1
+},
+
+{
+"key": "豆瓣2",
+"name": "豆瓣(備)",
+"type": 3,
+"api": "csp_Douban",
+"jar": "https://raw.githubusercontent.com/Media0501/VOD-Testing/refs/heads/main/pg.jar",
+"ext": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/json/douban.json",
+"searchable": 1,
+"changeable": 1,
+"filterable": 1,
+"quickSearch": 1
+},
+
+{
+"key": "77ys",
+"name": "77影视",
+"type": 3,
+"jar":"https://tvbox.catvod.com/catvod.jar",
+"api": "csp_XBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "https://tvbox.catvod.com/js/77ys.json"
+},
+
+{
+"key": "新6V",
+"name": "新6V",
+"type": 3,
+"api": "csp_Xb6v",
+"jar": "https://tvbox.catvod.com/catvod.jar",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1
+},
+
+{
+"key": "heihu",
+"name": "黑狐",
+"type": 3,
+"api": "csp_XBPQ",
+"jar": "https://tvbox.catvod.com/catvod.jar",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "https://tvbox.catvod.com/js/heihu.json"
+},
+
+{
+"key": "qiyou",
+"name": "奇優",
+"type": 3,
+"api": "csp_XBPQ",
+"jar": "https://tvbox.catvod.com/catvod.jar",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "https://tvbox.catvod.com/js/qiyou.json"
+},
+
+{
+"key": "pianba",
+"name": "片吧",
+"type": 3,
+"api": "csp_XBPQ",
+"jar": "https://tvbox.catvod.com/catvod.jar",
+"searchable": 1,
+"quickSearch": 1,
+"ext": "https://tvbox.catvod.com/js/pianba.json"
+},
+
+{
+"key":"Hxq",
+"name":"韓劇",
+"type":3,
+"api":"csp_HxqAmns",
+"jar": "https://raw.githubusercontent.com/Media0501/VOD-Testing/refs/heads/main/aowu.jar",
+"searchable":1,
+"filterable":1,
+"quickSearch":1,
+"changeable":1
+},
+
+{
+"key":"Aiyf",
+"name":"愛壹帆(備)",
+"type":3,
+"api":"csp_AiyfAmns",
+"jar": "https://raw.githubusercontent.com/Media0501/VOD-Testing/refs/heads/main/aowu.jar",
+"searchable":1,
+"filterable":1,
+"quickSearch":1,
+"changeable":1
+},
+
+{
+"key": "csp_歐樂影院ORG",
+"name": "歐樂影院",
+"type": 3,
+"api": "csp_XBPQ",
+"jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": {
+"简介": "content_desc context clearfix\">&&</span>",
+"分类url": "https://www.oulevod.org/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
+"分类": "電視劇$2#電影$1#動漫$4#綜藝$3#短劇$53",
+"地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他"}
+},
+
+{
+"key": "csp_If101",
+"name": "If101",
+"type": 3,
+"api": "csp_XBPQ",
+"jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": {
+"简介": "content_desc context clearfix\">&&</span>",
+"分类url": "https://www.olehdtv.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
+"分类": "電影$1#電視劇$2#綜藝$3#動漫$4",
+"地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他"}
+},
+
+{
+"key": "feikuai",
+"name": "飛快",
+"type": 3,
+"api": "https://raw.githubusercontent.com/Media0501/VOD-Testing/refs/heads/main/飞快.py",
+"searchable": 1,
+"filterable": 0,
+"changeable": 0
+},
+
+{
+"key": "ling",
+"name": "Ling",
+"type": 3,
+"api": "csp_XBPQ",
+"jar": "https://raw.githubusercontent.com/Media0501/VOD-Testing/refs/heads/main/xyqxbpq.jar",
+"playerType": 2,
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "https://raw.githubusercontent.com/Media0501/VOD-Testing/refs/heads/main/飛快tv.json"
+},
+
+{
+"key": "jieyingshi",
+"name": "異界",
+"type": 3,
+"api": "https://raw.githubusercontent.com/Media0501/VOD-Testing/refs/heads/main/界.py",
+"searchable": 1,
+"filterable": 0,
+"changeable": 0
+},
+
+{
+"key": "csp_Euvod",
+"name": "EU-Vod",
+"type": 3,
+"api": "csp_XBPQ",
+"jar": "https://raw.githubusercontent.com/Media0501/VOD-Testing/refs/heads/main/xyqxbpq.jar",
+"searchable": 1,
+"quickSearch": 1,
+"changeable": 1,
+"filterable": 1,
+"timeout": 60,
+"ext": "https://raw.githubusercontent.com/Media0501/VOD-Testing/refs/heads/main/伊優.json"
+}, 
+  
+{
+"key": "csp_電影先生",
+"name": "電影先生",
+"type": 3,
+"api": "csp_XBPQ",
+"jar": "https://raw.githubusercontent.com/Media0501/VOD-Testing/refs/heads/main/xyqxbpq.jar",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/json/電影先生.json"
+}, 
+
+
+{
+"name": "伊外",
+"key": "伊外",
+"type": 3,
+"jar": "https://raw.githubusercontent.com/Media0501/VOD-Testing/refs/heads/main/6420.jar",
+"api": "csp_YIysAmns",
+"searchable": 1,
+"filterable": 1,
+"quickSearch": 1,
+"changeable": 0
+},
+
+{
+"key":"NewGr",
+"name":"春天",
+"type":3,
+"api":"csp_NewGrAmns",
+"jar": "https://raw.githubusercontent.com/Media0501/VOD-Testing/refs/heads/main/aowu.jar",
+"searchable":1,
+"filterable":1,
+"quickSearch":1,
+"changeable":1,
+"ext":"BG6DUQMDRsRW0hbHAYRFwFNSUoESx4PHgAPBksaHRRWXkcFLQEDFwIMCBhEXkBZVVteWx8XHEVIVT8zHlAtMRIyLDszASEtF0sAMj8ONj0BLCofKAo2PCc4ET8TQT0JFjArVzRYRVpEDRRKX1sTPx8LLwkgOCtUQBc1HAUXOC0SSiIoSU9HS1AWFhUuDANUXEYRAAQXFhAVHBYPGwcPC1NJRRUOBQwGABUtGhsWAEVIVRUBAhU4BRZUU0pJWwIYFxkEABcoCAQcAEVMRAcNBUsAEQ4YGh9JCw4VFVNJRQUfFz0YCRgGHxsACEVIVVRHXUcUDxUWBwQAGAEcVkhHVkNVSkcHABUFDwsMSl9bRktEQlVFDw=="
+},
+
+
+{
+"key": "零度",
+"name": "零度",
+"type": 3,
+"api": "csp_AppNox",
+"jar": "https://raw.githubusercontent.com/Media0501/VOD-Testing/refs/heads/main/xiaosa.jar",
+"ext": {
+"url": "http://ld.ldysapp.cn",
+"header": {
+"content-type": "application/json",
+"x-app-signature": "70:DF:B1:2A:AE:C3:E3:73:6E:23:0F:67:B9:3B:C5:63:2D:EA:2A:2C:9E:9D:52:82:1D:3F:3C:3C:B9:10:9E:EE",
+"x-app-package": "com.mjyx.jhxq",
+"x-app-version-code": "36",
+"x-app-version-name": "2.2.6"
+}
+}
+},
+
+
+{
+"key":"界影視",
+"name":"界影視",
+"type":3,
+"api":"csp_Jpys",
+"jar": "https://raw.githubusercontent.com/Media0501/VOD-Testing/refs/heads/main/xiaosa.jar",
+"ext":"https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
+},
+
+
+{
+"key": "csp_AG動漫",
+"name": "動漫🦉AG",
+"type": 3,
+"api": "csp_XBPQ",
+"jar": "https://raw.githubusercontent.com/Media0501/VOD-Testing/refs/heads/main/xyqxbpq.jar",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": {
+"分类url": "https://agdm.tv/show/{cateId}/area/{area}/by/{by}/page/{catePg}/year/{year}.html",
+"分类": "日本动漫$6#国产动漫$7#欧美动漫$8#海外动漫$21#劇场版$9",
+"地区": "日本&大陆&美国"
+}
+},
+
+{
+"key": "魔都资源",
+"name": "動漫🦉魔都(備)",
+"type": 1,
+"api": "https://caiji.moduapi.cc/api.php/provide/vod",
+"jar": "https://raw.githubusercontent.com/Media0501/VOD-Testing/refs/heads/main/panda1123.jar",
+"searchable": 1,
+"changeable": 1
+},
+
+
+
+
+
+ 
 {
 "key": "索尼资源",
 "name": "🌸Free Movie < 20260617 👉 建議更新至 Free Movie 5.5.2 版 >",
