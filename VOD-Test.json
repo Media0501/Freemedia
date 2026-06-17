@@ -1,15 +1,33 @@
 {
 
 "spider":"https://raw.githubusercontent.com/FongMi/CatVodSpider/refs/heads/main/jar/custom_spider.jar",
-
-
-
+"logo":"https://raw.githubusercontent.com/Media0501/VOD-Testing/refs/heads/main/FreeLogo.png",
 "wallpaper": "https://picsum.photos/1920/1080",
 "notice": "🌸 VOD-Test JAR Error 🌸
 最終維護日 : 2026/06/17",
 
 "sites": [
-
+ 
+{
+"key": "索尼资源",
+"name": "🌸Free Movie < 20260617 >",
+"type": 1,
+"api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+"searchable": 1,
+"changeable": 1,
+"filterable": 1,
+"quickSearch": 1,
+"categories": [
+"Netflix电影","Netflix自制剧","4K电影",
+"国产剧","韩剧","欧美剧","日剧","港剧","台剧","泰剧","海外剧",
+"科幻片","动作片","喜剧片","爱情片","恐怖片","剧情片","战争片","悬疑片","犯罪片","冒险片","惊悚片","奇幻片","动画片","纪录片","邵氏电影",
+"国产动漫","日韩动漫","欧美动漫","动画片","港台动漫","海外动漫",
+"演唱会","大陆综艺","日韩综艺","港台综艺","欧美综艺",
+"有声动漫","现代都市","女频恋爱","反转爽剧","古装仙侠","年代穿越","脑洞悬疑","爽文短剧",
+"写真热舞","港台三级","日本伦理","韩国伦理","西方伦理","擦边短剧"
+]
+},
+ 
 {
 "key": "豆瓣1",
 "name": "豆瓣",
@@ -125,8 +143,7 @@
 "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他"}
 },
 
-
-{
+ {
 "key": "jieyingshi",
 "name": "異界",
 "type": 3,
@@ -147,7 +164,6 @@
 "filterable": 1,
 "ext": "https://raw.githubusercontent.com/Freeman0501/freelist/refs/heads/main/json/電影先生.json"
 }, 
-
 
 {
 "name": "伊外",
@@ -174,8 +190,6 @@
 "ext":"BG6DUQMDRsRW0hbHAYRFwFNSUoESx4PHgAPBksaHRRWXkcFLQEDFwIMCBhEXkBZVVteWx8XHEVIVT8zHlAtMRIyLDszASEtF0sAMj8ONj0BLCofKAo2PCc4ET8TQT0JFjArVzRYRVpEDRRKX1sTPx8LLwkgOCtUQBc1HAUXOC0SSiIoSU9HS1AWFhUuDANUXEYRAAQXFhAVHBYPGwcPC1NJRRUOBQwGABUtGhsWAEVIVRUBAhU4BRZUU0pJWwIYFxkEABcoCAQcAEVMRAcNBUsAEQ4YGh9JCw4VFVNJRQUfFz0YCRgGHxsACEVIVVRHXUcUDxUWBwQAGAEcVkhHVkNVSkcHABUFDwsMSl9bRktEQlVFDw=="
 },
 
-
-
 {
 "key":"界影視",
 "name":"界影視",
@@ -184,7 +198,6 @@
 "jar": "https://raw.githubusercontent.com/Media0501/VOD-Testing/refs/heads/main/xiaosa.jar",
 "ext":"https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
 },
-
 
 {
 "key": "csp_AG動漫",
@@ -210,31 +223,6 @@
 "jar": "https://raw.githubusercontent.com/Media0501/VOD-Testing/refs/heads/main/panda1123.jar",
 "searchable": 1,
 "changeable": 1
-},
-
-
-
-
-
- 
-{
-"key": "索尼资源",
-"name": "🌸Free Movie < 20260617 👉 建議更新至 Free Movie 5.5.2 版 >",
-"type": 1,
-"api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-"searchable": 1,
-"changeable": 1,
-"filterable": 1,
-"quickSearch": 1,
-"categories": [
-"Netflix电影","Netflix自制剧","4K电影",
-"国产剧","韩剧","欧美剧","日剧","港剧","台剧","泰剧","海外剧",
-"科幻片","动作片","喜剧片","爱情片","恐怖片","剧情片","战争片","悬疑片","犯罪片","冒险片","惊悚片","奇幻片","动画片","纪录片","邵氏电影",
-"国产动漫","日韩动漫","欧美动漫","动画片","港台动漫","海外动漫",
-"演唱会","大陆综艺","日韩综艺","港台综艺","欧美综艺",
-"有声动漫","现代都市","女频恋爱","反转爽剧","古装仙侠","年代穿越","脑洞悬疑","爽文短剧",
-"写真热舞","港台三级","日本伦理","韩国伦理","西方伦理","擦边短剧"
-]
 },
 
 {
@@ -606,19 +594,6 @@
 },
 
 {
-"key": "catvod_月光影视",
-"name": "月光影视(cat)",
-"type": 3,
-"api": "http://192.129.140.23:5757/cat/月光影视.js?pwd=dzyyds",
-"searchable": 1,
-"filterable": 1,
-"quickSearch": 1,
-"title": "月光影视",
-"lang": "cat",
-"ext": ""
-},
-
-{
 "key": "catvod_荐片",
 "name": "荐片(cat)",
 "type": 3,
@@ -727,18 +702,6 @@
 "ext": ""
 },
 
-{
-"key": "hipy_py_猎手APP",
-"name": "猎手APP(hipy)",
-"type": 4,
-"api": "http://192.129.140.23:5757/api/猎手APP?do=py&pwd=dzyyds",
-"searchable": 1,
-"filterable": 1,
-"quickSearch": 1,
-"title": "猎手APP",
-"lang": "hipy",
-"ext": ""
-},
 
 {
 "key": "hipy_py_瓜子",
@@ -785,8 +748,6 @@
 "order_num": 142,
 "ext": "https://tvbox.catvod.com/js/采集之王.js?type=url&params=https://tvbox.catvod.com/js/采集静态.json$1$1"
 }, 
-
-
 
 {
 "key":"暴风影视",
@@ -849,27 +810,6 @@
 "changeable": 0
 },
 
-
-
-
-
-
-#待測區
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 {
 "key":"星芽短剧",
 "name":"星芽🦄短劇",
@@ -895,13 +835,6 @@
 "ext": ""
 },
 
-
-
-
-#動漫區
-
-
-
 {
 "key": "py_方舟_APP",
 "name": "動漫🦉方舟(備)",
@@ -918,7 +851,6 @@
 }
 },
 
-
 {
 "key": "魔都",
 "name": "動漫🦉魔都",
@@ -928,13 +860,6 @@
 "changeable": 1,
 "categories": ["国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "动漫电影", "里番动漫"]
 },
-
-
-
-
-
-
-
 
 #結尾防當機
 
@@ -956,8 +881,6 @@
 "playerType":2,
 "logo": "https://epg.112114.xyz/logo/{name}.png"
 }
-
-
 
 
 ]}
