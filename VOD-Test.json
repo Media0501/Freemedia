@@ -199,21 +199,6 @@
 "ext":"https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
 },
 
-{
-"key": "csp_AG動漫",
-"name": "動漫🦉AG",
-"type": 3,
-"api": "csp_XBPQ",
-"jar": "https://raw.githubusercontent.com/Media0501/VOD-Testing/refs/heads/main/xyqxbpq.jar",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": {
-"分类url": "https://agdm.tv/show/{cateId}/area/{area}/by/{by}/page/{catePg}/year/{year}.html",
-"分类": "日本动漫$6#国产动漫$7#欧美动漫$8#海外动漫$21#劇场版$9",
-"地区": "日本&大陆&美国"
-}
-},
 
 {
 "key": "csp_xml_ikun",
@@ -486,7 +471,7 @@
 
 {
 "key": "drpyS_55影视",
-"name": "55影视(DS)",
+"name": "55影視",
 "type": 4,
 "api": "http://192.129.140.23:5757/api/55影视?pwd=dzyyds",
 "searchable": 2,
@@ -500,7 +485,7 @@
 
 {
 "key": "drpyS_永乐视频[优]",
-"name": "永乐视频[优](DS)",
+"name": "永樂視頻",
 "type": 4,
 "api": "http://192.129.140.23:5757/api/永乐视频[优]?pwd=dzyyds",
 "searchable": 1,
@@ -514,7 +499,7 @@
 
 {
 "key": "drpyS_荐片[优]",
-"name": "荐片[优](DS)",
+"name": "荐片",
 "type": 4,
 "api": "http://192.129.140.23:5757/api/荐片[优]?pwd=dzyyds",
 "searchable": 1,
@@ -528,7 +513,7 @@
 
 {
 "key": "drpyS_可视影院",
-"name": "可视影院(DS)",
+"name": "可視影院",
 "type": 4,
 "api": "http://192.129.140.23:5757/api/可视影院?pwd=dzyyds",
 "searchable": 2,
@@ -542,7 +527,7 @@
 
 {
 "key": "drpyS_枫林影视",
-"name": "枫林影视(DS)",
+"name": "楓林影視",
 "type": 4,
 "api": "http://192.129.140.23:5757/api/枫林影视?pwd=dzyyds",
 "searchable": 2,
@@ -556,7 +541,7 @@
 
 {
 "key": "drpyS_泥视频",
-"name": "泥视频(DS)",
+"name": "泥視頻",
 "type": 4,
 "api": "http://192.129.140.23:5757/api/泥视频?pwd=dzyyds",
 "searchable": 1,
@@ -571,7 +556,7 @@
 
 {
 "key": "drpyS_非凡采集[采]",
-"name": "非凡采集[采](DS)",
+"name": "非凡采集",
 "type": 4,
 "api": "http://192.129.140.23:5757/api/非凡采集[采]?pwd=dzyyds",
 "searchable": 2,
@@ -585,7 +570,7 @@
 
 {
 "key": "catvod_荐片",
-"name": "荐片(cat)",
+"name": "荐片",
 "type": 3,
 "api": "http://192.129.140.23:5757/cat/荐片.js?pwd=dzyyds",
 "searchable": 1,
@@ -598,7 +583,7 @@
 
 {
 "key": "hipy_py_一起看[Ayq]",
-"name": "一起看[Ayq](hipy)",
+"name": "一起看",
 "type": 4,
 "api": "http://192.129.140.23:5757/api/AppYqk?do=py&pwd=dzyyds",
 "searchable": 1,
@@ -620,7 +605,7 @@
 
 {
 "key": "hipy_py_橘子TV[Ayq]",
-"name": "橘子TV[Ayq](hipy)",
+"name": "橘子TV",
 "type": 4,
 "api": "http://192.129.140.23:5757/api/AppYqk?do=py&pwd=dzyyds",
 "searchable": 1,
@@ -642,7 +627,7 @@
 
 {
 "key": "hipy_py_新浪资源",
-"name": "新浪资源(hipy)",
+"name": "新浪資源",
 "type": 4,
 "api": "http://192.129.140.23:5757/api/新浪资源?do=py&pwd=dzyyds",
 "searchable": 1,
@@ -655,7 +640,7 @@
 
 {
 "key": "hipy_py_新韩剧网",
-"name": "新韩剧网(hipy)",
+"name": "新韓劇網",
 "type": 4,
 "api": "http://192.129.140.23:5757/api/新韩剧网?do=py&pwd=dzyyds",
 "searchable": 1,
@@ -668,7 +653,7 @@
 
 {
 "key": "hipy_py_爱瓜APP",
-"name": "爱瓜APP(hipy)",
+"name": "愛瓜",
 "type": 4,
 "api": "http://192.129.140.23:5757/api/爱瓜APP?do=py&pwd=dzyyds",
 "searchable": 1,
@@ -681,7 +666,7 @@
 
 {
 "key": "hipy_py_独播库",
-"name": "独播库(hipy)",
+"name": "獨播庫",
 "type": 4,
 "api": "http://192.129.140.23:5757/api/独播库?do=py&pwd=dzyyds",
 "searchable": 1,
@@ -695,7 +680,7 @@
 
 {
 "key": "hipy_py_瓜子",
-"name": "瓜子(hipy)",
+"name": "瓜子",
 "type": 4,
 "api": "http://192.129.140.23:5757/api/瓜子?do=py&pwd=dzyyds",
 "searchable": 1,
@@ -708,7 +693,7 @@
 
 {
 "key": "hipy_py_爱瓜APP",
-"name": "爱瓜APP(hipy)",
+"name": "爱瓜APP",
 "type": 4,
 "api": "http://192.129.140.23:5757/api/爱瓜APP?do=py&pwd=dzyyds",
 "searchable": 1,
@@ -768,7 +753,6 @@
 "filterable": 0,
 "changeable": 0
 },
-
 
 {
 "key": "jieyingshi",
@@ -841,6 +825,22 @@
 }
 },
 
+{
+"key": "csp_AG動漫",
+"name": "動漫🦉AG",
+"type": 3,
+"api": "csp_XBPQ",
+"jar": "https://raw.githubusercontent.com/Media0501/VOD-Testing/refs/heads/main/xyqxbpq.jar",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": {
+"分类url": "https://agdm.tv/show/{cateId}/area/{area}/by/{by}/page/{catePg}/year/{year}.html",
+"分类": "日本动漫$6#国产动漫$7#欧美动漫$8#海外动漫$21#劇场版$9",
+"地区": "日本&大陆&美国"
+}
+},
+ 
 {
 "key": "魔都",
 "name": "動漫🦉魔都",
