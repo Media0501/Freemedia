@@ -4,7 +4,7 @@
 "logo":"https://raw.githubusercontent.com/Media0501/VOD-Testing/refs/heads/main/FreeLogo.png",
 "wallpaper": "https://picsum.photos/1920/1080",
 "notice": "🌸 VOD-Test JAR Error 🌸
-最終維護日 : 2026/06/17",
+最終維護日 : 2026/06/29",
 
 "sites": [
  
@@ -26,6 +26,30 @@
 "有声动漫","现代都市","女频恋爱","反转爽剧","古装仙侠","年代穿越","脑洞悬疑","爽文短剧",
 "写真热舞","港台三级","日本伦理","韩国伦理","西方伦理","擦边短剧"
 ]
+},
+
+{
+"key"        : "豆瓣-搜索",
+"name"       : "🇹🇼｜熱播排行榜｜可選站",
+"type"       : 3,
+"api"        : "csp_DouDouGuard",
+"jar"        : "https://raw.githubusercontent.com/Media0501/VOD-Testing/refs/heads/main/river.jar",
+"indexs"     : 1,
+"searchable" : 0,
+"quickSearch": 0,
+"changeable" : 0
+},
+
+{
+"key"        : "奥特",
+"name"       : "🏆｜銅牌｜高清(無廣告)",
+"type"       : 3,
+"api"        : "csp_AueteGuard",
+"jar"        : "https://raw.githubusercontent.com/Media0501/VOD-Testing/refs/heads/main/river.jar",
+"timeout"    : 10,
+"searchable" : 1,
+"quickSearch": 1,
+"changeable" : 1
 },
  
 {
