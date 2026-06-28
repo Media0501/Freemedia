@@ -29,30 +29,6 @@
 },
 
 {
-"key"        : "豆瓣-搜索",
-"name"       : "🇹🇼｜熱播排行榜｜可選站",
-"type"       : 3,
-"api"        : "csp_DouDouGuard",
-"jar"        : "https://raw.githubusercontent.com/Media0501/VOD-Testing/refs/heads/main/fan-fman.jar",
-"indexs"     : 1,
-"searchable" : 0,
-"quickSearch": 0,
-"changeable" : 0
-},
-
-{
-"key"        : "奥特",
-"name"       : "🏆｜銅牌｜高清(無廣告)",
-"type"       : 3,
-"api"        : "csp_AueteGuard",
-"jar"        : "https://raw.githubusercontent.com/Media0501/VOD-Testing/refs/heads/main/fan-fman.jar",
-"timeout"    : 10,
-"searchable" : 1,
-"quickSearch": 1,
-"changeable" : 1
-},
- 
-{
 "key": "豆瓣1",
 "name": "豆瓣",
 "type": 3,
