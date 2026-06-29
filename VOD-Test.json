@@ -2,9 +2,11 @@
 
 
 "spider":"https://raw.githubusercontent.com/FongMi/CatVodSpider/refs/heads/main/jar/Free.jar",
+#"spider":"https://raw.githubusercontent.com/FongMi/CatVodSpider/refs/heads/main/jar/custom_spider.jar",
 "logo":"https://raw.githubusercontent.com/Media0501/VOD-Testing/refs/heads/main/FreeLogo.png",
 "wallpaper": "https://picsum.photos/1920/1080",
-"notice": "🌸 VOD-Test JAR Error 🌸\n最終維護日 : 2026/06/29",
+"notice": "🌸 VOD-Test JAR Error 🌸
+最終維護日 : 2026/06/29",
 
 "sites": [
  
@@ -908,10 +910,33 @@
         "version": "3.0.2.1",
         "decrypt": "1"
 }
+},
+
+ 
+
+#結尾防當機
+
+{"key":"csp_Local","name":"📚儲存文件","type":3,"api":"csp_Local","searchable":0,"quickSearch":0,"filterable":1}
+],
+
+"ads":["static-mozai.4gtv.tv"],
+
+#直播群
+"lives": [
+
+
+{
+"name":"Free TV",
+"url":"https://funnylife.neocities.org/iptv@recha.txt",
+"type":0,
+"timeout":30,
+"playerType":2,
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+
+{
+"name":"🌞 台灣景區直播 🌟",
+"url":"https://funnylife.neocities.org/TW-LiveCAM.txt"
 }
 
-
-
 ]}
-
-
