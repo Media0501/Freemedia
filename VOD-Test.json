@@ -2,11 +2,9 @@
 
 
 "spider":"https://raw.githubusercontent.com/FongMi/CatVodSpider/refs/heads/main/jar/Free.jar",
-#"spider":"https://raw.githubusercontent.com/FongMi/CatVodSpider/refs/heads/main/jar/custom_spider.jar",
 "logo":"https://raw.githubusercontent.com/Media0501/VOD-Testing/refs/heads/main/FreeLogo.png",
 "wallpaper": "https://picsum.photos/1920/1080",
-"notice": "🌸 VOD-Test JAR Error 🌸
-最終維護日 : 2026/06/29",
+"notice": "🌸 VOD-Test JAR Error 🌸\n最終維護日 : 2026/06/29",
 
 "sites": [
  
