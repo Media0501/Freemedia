@@ -6,13 +6,13 @@
 "logo":"https://raw.githubusercontent.com/Media0501/VOD-Testing/refs/heads/main/FreeLogo.png",
 "wallpaper": "https://picsum.photos/1920/1080",
 "notice": "🌸 VOD-Test JAR Error 🌸
-最終維護日 : 2026/06/29",
+最終維護日 : 2026/07/10",
 
 "sites": [
  
 {
 "key": "索尼资源",
-"name": "🌸Free Movie < 20260629 >",
+"name": "🌸Free Movie",
 "type": 1,
 "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
 "searchable": 1,
